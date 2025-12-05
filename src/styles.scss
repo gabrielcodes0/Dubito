@@ -1,0 +1,489 @@
+/* Global styles imported from EsSubito static project to give the Angular app the same look & feel */
+
+/* ==== Start EsSubito styles ==== */
+body {
+    background: #101728;
+    color: #fff;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+header, footer {
+    background: #181f2a;
+    color: #fff;
+    padding: 20px 0;
+    width: 100%;
+}
+header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 500;
+    padding: 8px 16px;
+    border-radius: 4px;
+    transition: background .2s;
+}
+nav a:hover, nav .active {
+    background: #232b3b;
+}
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 8px 16px;
+    border-radius: 4px;
+    transition: background .2s;
+}
+.logo img {
+    width: 60px;
+    height: auto;
+    display: block;
+    margin: 0;
+}
+.logo span {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #2e8bfa;
+    letter-spacing: 2px;
+    font-family: 'Segoe UI', Arial, sans-serif;
+}
+.main-content {
+    flex: 1 0 auto;
+    width: 100%;
+    max-width: 1200px;
+    margin: 30px auto 30px auto;
+    padding: 0 16px;
+}
+.filters-bar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-bottom: 24px;
+    background: #181f2a;
+    padding: 16px;
+    border-radius: 8px;
+    align-items: center;
+}
+.filters-bar input, .filters-bar select, .filters-bar button {
+    padding: 8px 12px;
+    border-radius: 4px;
+    border: none;
+    font-size: 1rem;
+}
+.filters-bar button {
+    background: #2e8bfa;
+    color: #fff;
+    cursor: pointer;
+    transition: background .2s;
+}
+.filters-bar button:hover {
+    background: #1c5db3;
+}
+.annunci-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+    gap: 24px;
+}
+.annuncio-card {
+    background: #181f2a;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px #0002;
+    transition: transform .2s;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+}
+.annuncio-card:hover {
+    transform: translateY(-4px) scale(1.02);
+    box-shadow: 0 4px 16px #0004;
+}
+.annuncio-card img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+}
+.annuncio-info {
+    padding: 16px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+.annuncio-titolo {
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #2e8bfa;
+}
+.annuncio-prezzo {
+    color: #ffd700;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+.annuncio-citta, .annuncio-data {
+    font-size: .95rem;
+    color: #b0b8c1;
+}
+.btn {
+    background: #2e8bfa;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 16px;
+    cursor: pointer;
+    font-weight: 500;
+    transition: background .2s;
+}
+.btn:hover {
+    background: #1c5db3;
+}
+.form-section {
+    background: #181f2a;
+    padding: 32px 32px 32px 24px;
+    border-radius: 8px;
+    max-width: 500px;
+    margin: 0 auto;
+    box-shadow: 0 2px 8px #0002;
+}
+.form-section label {
+    display: block;
+    margin-bottom: 6px;
+    font-weight: 500;
+}
+/* --- INPUT, TEXTAREA E BUTTON UNIFICATI PER FORM --- */
+.form-section input,
+.form-section textarea,
+.form-section button.btn {
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 12px;
+    font-size: 1rem;
+    padding: 10px;
+    border: 1px solid #bbb;
+    border-radius: 5px;
+    outline: none;
+    background: #232b3b;
+    color: #fff;
+    transition: border 0.2s, background 0.2s;
+}
+.form-section input:focus,
+.form-section textarea:focus {
+    border-color: #2e8bfa;
+}
+.form-section textarea {
+    min-height: 80px;
+    resize: vertical;
+}
+.form-section button.btn {
+    background: #2e8bfa;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 12px;
+    border-radius: 5px;
+    transition: background 0.2s;
+}
+.form-section button.btn:hover {
+    background: #1c5db3;
+}
+/* --- FINE REGOLA UNIFICATA --- */
+
+#contatti-msg {
+    min-height: 20px;
+    margin-top: 8px;
+    font-size: 1rem;
+}
+
+/* === STILI PER LA PAGINA CATEGORIE === */
+.categorie-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 24px;
+    margin-top: 24px;
+}
+.categoria-card {
+    background: #181f2a;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px #0002;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 32px 0 24px 0;
+    cursor: pointer;
+    transition: transform .2s, box-shadow .2s, background .2s;
+}
+.categoria-card:hover {
+    transform: translateY(-4px) scale(1.04);
+    box-shadow: 0 4px 16px #0004;
+    background: #232b3b;
+}
+.categoria-icona {
+    font-size: 2.5rem;
+    margin-bottom: 12px;
+}
+.categoria-nome {
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #2e8bfa;
+    text-align: center;
+}
+/* === FINE STILI CATEGORIE === */
+
+footer {
+    flex-shrink: 0;
+    text-align: center;
+    margin-top: auto;
+    background: #181f2a;
+    border-top: 1px solid #232b3b;
+}
+.footer-links {
+    margin-bottom: 10px;
+}
+.footer-links a {
+    color: #2e8bfa;
+    margin: 0 10px;
+    text-decoration: none;
+}
+.newsletter-form {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    margin-top: 10px;
+}
+.newsletter-form input[type="email"] {
+    width: 220px;
+}
+@media (max-width: 700px) {
+    .main-content { padding: 0 4px; }
+    .filters-bar { flex-direction: column; align-items: stretch; }
+    .annunci-grid { grid-template-columns: 1fr; }
+    .form-section { padding: 18px 6px; }
+    .categorie-grid { grid-template-columns: 1fr 1fr; }
+}
+@media (max-width: 500px) {
+    .categorie-grid { grid-template-columns: 1fr; }
+}
+.spinner {
+    border: 4px solid #232b3b;
+    border-top: 4px solid #2e8bfa;
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    animation: spin 1s linear infinite;
+    margin: 40px auto;
+}
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+.modal-bg {
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: #000a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+}
+.modal {
+    background: #181f2a;
+    border-radius: 10px;
+    max-width: 600px;
+    width: 95vw;
+    padding: 32px 24px;
+    color: #fff;
+    position: relative;
+    box-shadow: 0 8px 32px #0008;
+}
+.modal-close {
+    position: absolute;
+    top: 12px; right: 16px;
+    font-size: 1.5rem;
+    color: #fff;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+.fav-btn {
+    background: none;
+    border: none;
+    color: #ffd700;
+    font-size: 1.3rem;
+    cursor: pointer;
+    margin-left: auto;
+    transition: color .2s;
+}
+.fav-btn.fav {
+    color: #ff3c00;
+}
+
+/* === STILI PER LA PAGINA DETTAGLIO ANNUNCIO === */
+#dettaglio-annuncio {
+    max-width: 1000px;
+    margin: 30px auto;
+    padding: 20px;
+    background: #181f2a;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.dettaglio-img {
+    flex: 1 1 400px;
+}
+
+.dettaglio-img img {
+    width: 100%;
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+.dettaglio-info {
+    flex: 1 1 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.dettaglio-info h2 {
+    font-size: 2rem;
+    margin: 0;
+    color: #2e8bfa;
+}
+
+.dettaglio-info .price {
+    font-size: 1.5rem;
+    color: #ffd700;
+    font-weight: bold;
+}
+
+.dettaglio-info .location {
+    color: #b0b8c1;
+}
+
+.dettaglio-info .description {
+    margin-top: 10px;
+    line-height: 1.5;
+}
+
+/* Modalità mobile: disposto in colonna */
+@media (max-width: 700px) {
+    #dettaglio-annuncio {
+        flex-direction: column;
+    }
+    .dettaglio-img, .dettaglio-info {
+        flex: 1 1 100%;
+    }
+}
+/* ==== End EsSubito styles ==== */
+
+/* ==== FORM STYLES (applicati a tutti i form) ==== */
+/* Struttura di riferimento: .form-section e .form (classi già presenti nei template) */
+
+.form-section {
+  max-width: 700px;
+  margin: 24px auto;
+}
+
+.form-section h2 {
+  margin: 0 0 16px 0;
+  font-size: 1.6rem;
+  color: #fff;
+}
+
+/* --- INPUT, TEXTAREA, SELECT E BUTTON UNIFICATI PER FORM --- */
+.form-section input,
+.form-section textarea,
+.form-section select,
+.form-section button.btn,
+.form input,
+.form textarea,
+.form select,
+.form button,
+.form .btn {
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 12px;
+  font-size: 1rem;
+  padding: 10px;
+  border: 1px solid #bbb;
+  border-radius: 5px;
+  outline: none;
+  background: #232b3b;
+  color: #fff;
+  transition: border 0.2s, background 0.2s;
+}
+
+.form-section input:focus,
+.form-section textarea:focus,
+.form-section select:focus,
+.form input:focus,
+.form textarea:focus,
+.form select:focus {
+  border-color: #2e8bfa;
+}
+
+.form-section textarea,
+.form textarea {
+  min-height: 80px;
+  resize: vertical;
+}
+
+/* Bottoni primari */
+.form-section button.btn,
+.form button,
+.form .btn {
+  background: #2e8bfa;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  padding: 12px;
+  border-radius: 5px;
+  transition: background 0.2s;
+}
+
+.form-section button.btn:hover,
+.form button:hover,
+.form .btn:hover {
+  background: #1c5db3;
+}
+
+/* Label e messaggi d'aiuto */
+.form-section label,
+.form label {
+  display: block;
+  margin: 6px 0 6px;
+  color: #b0b8c1;
+}
+
+.form-hint {
+  margin-top: 8px;
+  font-size: 0.95rem;
+}
+.form-hint.success {
+  color: #2e7d32;
+  font-weight: 700;
+}
+.form-hint.muted {
+  color: #b0b8c1;
+  font-weight: 500;
+}
+/* Hint in rosso per messaggi tipo "Minimo X caratteri" */
+.form-hint.error {
+  color: #ff3b3b;
+}

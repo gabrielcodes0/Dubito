@@ -1,0 +1,56 @@
+<div class="filters-bar">
+  <input type="text" id="search-input" [(ngModel)]="q" placeholder="Cerca annunci...">
+
+  <select id="categoria-filter" [(ngModel)]="categoriaSelezionata">
+    <option value="">Tutte le categorie</option>
+    <option value="Elettronica">Elettronica</option>
+    <option value="Auto e Moto">Auto e Moto</option>
+    <option value="Abbigliamento">Abbigliamento</option>
+    <option value="Musica">Musica</option>
+    <option value="Immobili">Immobili</option>
+    <option value="__consigliati__">Consigliati per te</option>
+  </select>
+
+  <select id="citta-filter" [(ngModel)]="citta">
+    <option value="">Tutte le città</option>
+    @for (city of cities; track city) {
+      <option [value]="city">{{ city }}</option>
+    }
+  </select>
+
+  <select id="ordina-filter" [(ngModel)]="ordina">
+    <option value="data-desc">Data: più recenti</option>
+    <option value="data-asc">Data: meno recenti</option>
+    <option value="prezzo-asc">Prezzo: dal più basso</option>
+    <option value="prezzo-desc">Prezzo: dal più alto</option>
+    <option value="titolo-asc">Titolo: A-Z</option>
+    <option value="titolo-desc">Titolo: Z-A</option>
+  </select>
+
+  <button id="search-btn" type="button" (click)="onSearch()">Cerca</button>
+</div>
+
+
+@if (error) {
+  <p class="error">{{ error }}</p>
+}
+
+@if (ads().length) {
+  <div class="annunci-grid">
+    @for (item of ads(); track item.id) {
+      <app-ad-card [ad]="item" />
+    }
+  </div>
+} @else if (!loading) {
+  <p>Nessun annuncio trovato</p>
+}
+
+@if (loading) {
+  <p class="loading-more">Caricamento...</p>
+}
+
+@if (canLoadMore) {
+  <div style="display:flex; justify-content:center; margin: 16px 0;">
+    <button type="button" (click)="load()">Carica altri</button>
+  </div>
+}

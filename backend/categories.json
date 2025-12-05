@@ -1,0 +1,9 @@
+[
+  { "id": 1, "name": "Elettronica", "slug": "elettronica", "icon": "/icons/elettronica.png" },
+  { "id": 2, "name": "Sport", "slug": "sport", "icon": "/icons/sport.png" },
+  { "id": 3, "name": "Casa e Giardino", "slug": "casa-giardino", "icon": "/icons/casa-giardino.png" },
+  { "id": 4, "name": "Musica", "slug": "musica", "icon": "/icons/musica.png" },
+  { "id": 5, "name": "Auto e Moto", "slug": "auto-moto", "icon": "/icons/auto-moto.png" },
+  { "id": 6, "name": "Abbigliamento", "slug": "abbigliamento", "icon": "/icons/abbigliamento.png" },
+  { "id": 7, "name": "Immobili", "slug": "immobili", "icon": "/icons/immobili.png" }
+]

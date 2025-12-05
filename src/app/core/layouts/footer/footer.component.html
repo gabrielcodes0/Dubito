@@ -1,0 +1,18 @@
+<footer class="site-footer">
+  <div class="main-content">
+    <div class="footer-links">
+      <a routerLink="/terms">Termini e condizioni</a>
+      <span class="sep">|</span>
+      <a routerLink="/privacy">Privacy</a>
+      <span class="sep">|</span>
+      <a routerLink="/contacts">Contatti</a>
+    </div>
+
+    <form class="newsletter-form" (submit)="subscribe($event)">
+      <input type="email" name="email" [(ngModel)]="email" placeholder="La tua email" required />
+      <button type="submit" class="btn">Iscriviti</button>
+  </form>
+
+    <p>© {{ year }} EsSubito. Tutti i diritti riservati.</p>
+  </div>
+</footer>

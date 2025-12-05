@@ -1,0 +1,1702 @@
+{ "ads": [
+  {
+    "id": 1,
+    "titolo": "iPhone 14 Pro Max 128GB Nero - Ottime condizioni",
+    "immagine_principale": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Vendo iPhone 14 Pro Max da 128GB colore nero, acquistato 8 mesi fa. Sempre utilizzato con cover e pellicola protettiva. Batteria al 95%. Inclusa confezione originale e cavo Lightning. Perfettamente funzionante, senza graffi o danni. Motivo vendita: passaggio ad Android.",
+    "categoria": "Elettronica",
+    "prezzo": 850,
+    "data_pubblicazione": "2025-06-10",
+    "citta": "Milano",
+    "venditore": {
+      "nome": "Marco Rossi",
+      "email": "marco.rossi@email.com",
+      "telefono": "+39 331 1234567"
+    }
+  },
+  {
+    "id": 2,
+    "titolo": "Bicicletta da corsa Bianchi - Telaio carbonio",
+    "immagine_principale": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Bellissima bicicletta da corsa Bianchi con telaio in carbonio, cambio Shimano 105, ruote da 700c. Taglia 54cm, ideale per altezza 170-180cm. Utilizzata pochissimo, sempre tenuta in garage. Perfetta per appassionati di ciclismo.",
+    "categoria": "Sport",
+    "prezzo": 1200,
+    "data_pubblicazione": "2025-06-09",
+    "citta": "Roma",
+    "venditore": {
+      "nome": "Giulia Bianchi",
+      "email": "giulia.b@gmail.com",
+      "telefono": "+39 347 9876543"
+    }
+  },
+  {
+    "id": 3,
+    "titolo": "Divano 3 posti in pelle marrone vintage",
+    "immagine_principale": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Elegante divano a 3 posti in pelle marrone stile vintage. Dimensioni: 200x90x80cm. La pelle presenta i naturali segni del tempo che ne aumentano il fascino. Struttura solida, molto comodo. Ideale per salotto o studio.",
+    "categoria": "Casa e Giardino",
+    "prezzo": 450,
+    "data_pubblicazione": "2025-06-08",
+    "citta": "Napoli",
+    "venditore": {
+      "nome": "Antonio Verde",
+      "email": "a.verde@outlook.it",
+      "telefono": "+39 339 2468135"
+    }
+  },
+  {
+    "id": 4,
+    "titolo": "PlayStation 5 + 3 giochi - Come nuova",
+    "immagine_principale": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "PlayStation 5 standard edition, utilizzata pochissimo. Include 3 giochi: Spider-Man Miles Morales, FIFA 24, Call of Duty Modern Warfare II. Console in perfette condizioni, confezione originale con tutti gli accessori.",
+    "categoria": "Elettronica",
+    "prezzo": 520,
+    "data_pubblicazione": "2025-06-11",
+    "citta": "Torino",
+    "venditore": {
+      "nome": "Luca Ferrari",
+      "email": "luca.ferrari90@gmail.com",
+      "telefono": "+39 348 5551234"
+    }
+  },
+  {
+    "id": 5,
+    "titolo": "Tavolo da pranzo in legno massello per 6 persone",
+    "immagine_principale": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Stupendo tavolo da pranzo in legno massello di rovere, dimensioni 160x90cm, altezza 75cm. Perfetto per 6 persone. Realizzato artigianalmente, molto robusto e resistente. Piccoli segni d'uso che non compromettono la bellezza.",
+    "categoria": "Casa e Giardino",
+    "prezzo": 380,
+    "data_pubblicazione": "2025-06-07",
+    "citta": "Firenze",
+    "venditore": {
+      "nome": "Elena Russo",
+      "email": "elena.russo@libero.it",
+      "telefono": "+39 335 7778899"
+    }
+  },
+  {
+    "id": 6,
+    "titolo": "Chitarra elettrica Fender Stratocaster",
+    "immagine_principale": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Chitarra elettrica Fender Stratocaster American Standard, colore sunburst. Anno 2018, in ottime condizioni. Include custodia rigida originale Fender. Suono cristallino e versatile, perfetta per qualsiasi genere musicale.",
+    "categoria": "Musica",
+    "prezzo": 1100,
+    "data_pubblicazione": "2025-06-06",
+    "citta": "Palermo",
+    "venditore": {
+      "nome": "Davide Marino",
+      "email": "d.marino@yahoo.it",
+      "telefono": "+39 349 1112223"
+    }
+  },
+  {
+    "id": 7,
+    "titolo": "Macchina da caffè Nespresso Vertuo Plus",
+    "immagine_principale": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Macchina da caffè Nespresso Vertuo Plus, colore grigio titanio. Utilizzata per 6 mesi, perfettamente funzionante. Include 50 capsule di vari gusti. Sistema di estrazione centrifugo per caffè cremoso e aromatico.",
+    "categoria": "Casa e Giardino",
+    "prezzo": 120,
+    "data_pubblicazione": "2025-06-05",
+    "citta": "Bologna",
+    "venditore": {
+      "nome": "Sara Colombo",
+      "email": "sara.colombo@gmail.com",
+      "telefono": "+39 340 4445556"
+    }
+  },
+  {
+    "id": 8,
+    "titolo": "Auto Toyota Yaris Hybrid 2020 - 45.000 km",
+    "immagine_principale": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Toyota Yaris Hybrid 1.5 del 2020, colore bianco perlato. Percorsi 45.000 km, sempre garage e tagliandi regolari presso concessionaria. Clima automatico, navigatore, sensori parcheggio. Consumo medio 4.2L/100km. Auto in perfette condizioni.",
+    "categoria": "Auto e Moto",
+    "prezzo": 16500,
+    "data_pubblicazione": "2025-06-04",
+    "citta": "Genova",
+    "venditore": {
+      "nome": "Roberto Conti",
+      "email": "r.conti@hotmail.com",
+      "telefono": "+39 336 6667778"
+    }
+  },
+  {
+    "id": 9,
+    "titolo": "Lavatrice Samsung 8kg - A+++",
+    "immagine_principale": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Lavatrice Samsung carica frontale da 8kg, classe energetica A+++. Modello WW80J5555EW, acquistata 2 anni fa. Funzioni smart con Wi-Fi, programmi eco-bubble. Perfettamente funzionante, vendo per trasloco.",
+    "categoria": "Casa e Giardino",
+    "prezzo": 320,
+    "data_pubblicazione": "2025-06-03",
+    "citta": "Verona",
+    "venditore": {
+      "nome": "Francesca Ricci",
+      "email": "francesca.ricci@outlook.it",
+      "telefono": "+39 342 8889990"
+    }
+  },
+  {
+    "id": 10,
+    "titolo": "Mountain Bike Trek Full Suspension",
+    "immagine_principale": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Mountain bike Trek con sospensioni anteriori e posteriori, cambio Shimano XT 27 velocità, freni a disco idraulici. Taglia M, ruote 29''. Utilizzata per escursioni domenicali, sempre pulita e lubrificata. Perfetta per trail e cross country.",
+    "categoria": "Sport",
+    "prezzo": 890,
+    "data_pubblicazione": "2025-06-02",
+    "citta": "Padova",
+    "venditore": {
+      "nome": "Matteo Galli",
+      "email": "matteo.galli@gmail.com",
+      "telefono": "+39 345 1234567"
+    }
+  },
+  {
+    "id": 11,
+    "titolo": "Armadio 6 ante scorrevoli con specchio",
+    "immagine_principale": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Grande armadio con 6 ante scorrevoli, dimensioni 300x240cm. Tre ante con specchio e tre in laminato bianco. Interno organizzato con ripiani, cassetti e porta abiti. Perfetto per camera matrimoniale, molto capiente e funzionale.",
+    "categoria": "Casa e Giardino",
+    "prezzo": 650,
+    "data_pubblicazione": "2025-06-01",
+    "citta": "Catania",
+    "venditore": {
+      "nome": "Giuseppe Messina",
+      "email": "g.messina@virgilio.it",
+      "telefono": "+39 338 2223334"
+    }
+  },
+  {
+    "id": 12,
+    "titolo": "Notebook Lenovo ThinkPad i7 16GB RAM",
+    "immagine_principale": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Lenovo ThinkPad L15 con processore Intel i7, 16GB RAM, SSD 512GB. Schermo 15.6'' Full HD, Windows 11 Pro. Utilizzato per lavoro, sempre trattato con cura. Batteria con autonomia di 6-7 ore. Include caricatore originale.",
+    "categoria": "Elettronica",
+    "prezzo": 780,
+    "data_pubblicazione": "2025-05-31",
+    "citta": "Bari",
+    "venditore": {
+      "nome": "Carla Esposito",
+      "email": "carla.esposito@gmail.com",
+      "telefono": "+39 333 4445556"
+    }
+  },
+  {
+    "id": 13,
+    "titolo": "Set completo Golf Callaway per principianti",
+    "immagine_principale": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Set completo da golf Callaway ideale per principianti. Include: driver, ferri 6-PW, putter, sacca con tracolla, 50 palline da golf, tee in legno. Mazze in ottime condizioni, utilizzate solo in driving range.",
+    "categoria": "Sport",
+    "prezzo": 340,
+    "data_pubblicazione": "2025-05-30",
+    "citta": "Venezia",
+    "venditore": {
+      "nome": "Andrea Mancini",
+      "email": "andrea.mancini@libero.it",
+      "telefono": "+39 347 7778889"
+    }
+  },
+  {
+    "id": 14,
+    "titolo": "Frigorifero Samsung Side by Side 550L",
+    "immagine_principale": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Frigorifero americano Samsung RS50N3513SA, capacità 550 litri, classe energetica A+. Dispenser acqua e ghiaccio, tecnologia No Frost, display digitale. Colore inox, dimensioni 178x91cm. Perfettamente funzionante, vendo per rinnovo cucina.",
+    "categoria": "Casa e Giardino",
+    "prezzo": 850,
+    "data_pubblicazione": "2025-05-29",
+    "citta": "Brescia",
+    "venditore": {
+      "nome": "Mario Benedetti",
+      "email": "mario.benedetti@yahoo.it",
+      "telefono": "+39 339 9990001"
+    }
+  },
+  {
+    "id": 15,
+    "titolo": "Pianoforte digitale Yamaha P-125",
+    "immagine_principale": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Pianoforte digitale Yamaha P-125, 88 tasti pesati, colore nero. Include stand a X, pedale sustain, alimentatore. Utilizzato per studio domestico, sempre tenuto con cura. Suono realistico e touch sensibile. Perfetto per principianti e studenti.",
+    "categoria": "Musica",
+    "prezzo": 520,
+    "data_pubblicazione": "2025-05-28",
+    "citta": "Parma",
+    "venditore": {
+      "nome": "Lucia Santoro",
+      "email": "lucia.santoro@gmail.com",
+      "telefono": "+39 346 1112223"
+    }
+  },
+  {
+    "id": 16,
+    "titolo": "Scooter Honda SH 150cc - Anno 2019",
+    "immagine_principale": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Honda SH 150cc del 2019, colore grigio metallizzato. Km 12.000, sempre garage, tagliandi regolari. Ottime condizioni estetiche e meccaniche. Bagagliera sotto sella, parabrezza alto, perfetto per città e brevi viaggi.",
+    "categoria": "Auto e Moto",
+    "prezzo": 2800,
+    "data_pubblicazione": "2025-05-27",
+    "citta": "Modena",
+    "venditore": {
+      "nome": "Simone Pellegrini",
+      "email": "s.pellegrini@hotmail.it",
+      "telefono": "+39 344 3334445"
+    }
+  },
+  {
+    "id": 17,
+    "titolo": "Televisore Samsung QLED 55 pollici 4K",
+    "immagine_principale": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Samsung QLED QE55Q70A da 55'', risoluzione 4K HDR, Smart TV con Tizen OS. Acquistato 1 anno fa, in garanzia fino a maggio 2026. Include telecomando originale, supporto da parete e confezione. Immagini brillanti e colori vividi.",
+    "categoria": "Elettronica",
+    "prezzo": 680,
+    "data_pubblicazione": "2025-05-26",
+    "citta": "Pisa",
+    "venditore": {
+      "nome": "Valentina Greco",
+      "email": "valentina.greco@gmail.com",
+      "telefono": "+39 348 5556667"
+    }
+  },
+  {
+    "id": 18,
+    "titolo": "Set pesi palestra completo con panca",
+    "immagine_principale": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Set completo per home gym: panca regolabile, bilanciere olimpico, 100kg di dischi in ghisa, rack per squat, manubri regolabili. Tutto in ottime condizioni, utilizzato saltuariamente. Perfetto per allenamento completo a casa.",
+    "categoria": "Sport",
+    "prezzo": 450,
+    "data_pubblicazione": "2025-05-25",
+    "citta": "Livorno",
+    "venditore": {
+      "nome": "Fabio Martelli",
+      "email": "fabio.martelli@outlook.com",
+      "telefono": "+39 335 7778889"
+    }
+  },
+  {
+    "id": 19,
+    "titolo": "Cucina componibile moderna L 3x2 mt",
+    "immagine_principale": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Cucina ad angolo moderna, dimensioni 3x2 metri, ante laccato bianco lucido, top in quarzo. Include elettrodomestici: piano cottura a induzione, forno, lavastoviglie, cappa aspirante. 3 anni, ottime condizioni. Smonto io.",
+    "categoria": "Casa e Giardino",
+    "prezzo": 2200,
+    "data_pubblicazione": "2025-05-24",
+    "citta": "Perugia",
+    "venditore": {
+      "nome": "Alessandro Neri",
+      "email": "alessandro.neri@libero.it",
+      "telefono": "+39 349 1110002"
+    }
+  },
+  {
+    "id": 20,
+    "titolo": "Violino 4/4 con custodia e archetto",
+    "immagine_principale": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Violino acustico 4/4 per adulti, tavola in abete, fondo e fasce in acero. Include custodia imbottita, archetto in legno di Pernambuco, colofonia, set corde di ricambio. Suono caldo e bilanciato, perfetto per studio e concerti.",
+    "categoria": "Musica",
+    "prezzo": 180,
+    "data_pubblicazione": "2025-05-23",
+    "citta": "Ancona",
+    "venditore": {
+      "nome": "Chiara Fontana",
+      "email": "chiara.fontana@gmail.com",
+      "telefono": "+39 342 2223334"
+    }
+  },
+  {
+    "id": 21,
+    "titolo": "Aspirapolvere Dyson V11 Cordless",
+    "immagine_principale": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Dyson V11 Absolute, aspirapolvere cordless con display LCD. Include spazzola High Torque, spazzola soffice, bocchetta 2-in-1, mini motorizzata. Autonomia fino a 60 minuti, svuotamento igienico. Utilizzato 8 mesi, perfetto.",
+    "categoria": "Casa e Giardino",
+    "prezzo": 380,
+    "data_pubblicazione": "2025-05-22",
+    "citta": "Trieste",
+    "venditore": {
+      "nome": "Michele Sorrentino",
+      "email": "michele.sorrentino@yahoo.it",
+      "telefono": "+39 337 4445556"
+    }
+  },
+  {
+    "id": 22,
+    "titolo": "Monopattino elettrico Xiaomi Mi Pro 2",
+    "immagine_principale": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Xiaomi Mi Electric Scooter Pro 2, velocità max 25 km/h, autonomia 45km. Pneumatici 8.5'', freni a disco, display LED, app Mi Home. Utilizzato per 6 mesi per tragitto casa-lavoro. Batteria ancora efficiente, nessun danno.",
+    "categoria": "Sport",
+    "prezzo": 320,
+    "data_pubblicazione": "2025-05-21",
+    "citta": "Udine",
+    "venditore": {
+      "nome": "Stefano Romano",
+      "email": "stefano.romano@gmail.com",
+      "telefono": "+39 340 6667778"
+    }
+  },
+  {
+    "id": 23,
+    "titolo": "Libreria in legno massello 5 ripiani",
+    "immagine_principale": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Libreria alta in legno massello di quercia, 5 ripiani regolabili, dimensioni 180x80x30cm. Finitura naturale cerata, molto robusta e stabile. Ideale per soggiorno o studio, può contenere centinaia di libri. Piccoli segni d'uso.",
+    "categoria": "Casa e Giardino",
+    "prezzo": 280,
+    "data_pubblicazione": "2025-05-20",
+    "citta": "Bolzano",
+    "venditore": {
+      "nome": "Anna Huber",
+      "email": "anna.huber@email.it",
+      "telefono": "+39 346 8889990"
+    }
+  },
+  {
+    "id": 24,
+    "titolo": "MacBook Air M1 13'' 256GB Silver",
+    "immagine_principale": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "MacBook Air 2021 con chip M1, 8GB RAM, SSD 256GB, colore Silver. Cicli batteria: 89. Sempre utilizzato con cover, perfette condizioni estetiche. Include caricatore MagSafe originale. Veloce e silenzioso, ideale per lavoro e studio.",
+    "categoria": "Elettronica",
+    "prezzo": 950,
+    "data_pubblicazione": "2025-05-19",
+    "citta": "Trento",
+    "venditore": {
+      "nome": "Paolo Marchetti",
+      "email": "paolo.marchetti@hotmail.com",
+      "telefono": "+39 334 1112223"
+    }
+  },
+  {
+    "id": 25,
+    "titolo": "Tapis roulant elettrico pieghevole",
+    "immagine_principale": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Tapis roulant elettrico Domyos T540B, velocità 1-16 km/h, inclinazione regolabile, superficie 125x40cm. Pieghevole per risparmio spazio, console con programmi preimpostati, sensori cardiaci. Utilizzato 1 anno, perfetto funzionamento.",
+    "categoria": "Sport",
+    "prezzo": 420,
+    "data_pubblicazione": "2025-05-18",
+    "citta": "Aosta",
+    "venditore": {
+      "nome": "Roberta Moreau",
+      "email": "roberta.moreau@gmail.com",
+      "telefono": "+39 345 3334445"
+    }
+  },
+  {
+    "id": 26,
+    "titolo": "Camera da letto matrimoniale completa",
+    "immagine_principale": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Camera matrimoniale completa: letto 160x200 con testiera imbottita, 2 comodini, comò con specchio, armadio 4 ante. Stile moderno, colore bianco opaco con inserti grigio. Ottime condizioni, materasso memory incluso.",
+    "categoria": "Casa e Giardino",
+    "prezzo": 850,
+    "data_pubblicazione": "2025-05-17",
+    "citta": "L'Aquila",
+    "venditore": {
+      "nome": "Francesco D'Angelo",
+      "email": "francesco.dangelo@outlook.it",
+      "telefono": "+39 338 5556667"
+    }
+  },
+  {
+    "id": 27,
+    "titolo": "Batteria acustica Tama Imperialstar 5 pezzi",
+    "immagine_principale": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Batteria Tama Imperialstar 5 pezzi: cassa 22'', tom 10'' e 12'', floor tom 16'', rullante 14''. Include hardware completo, piatti Paiste PST 3 (hi-hat 14'', crash 16'', ride 20''), sgabello e bacchette. Suono potente e definito.",
+    "categoria": "Musica",
+    "prezzo": 680,
+    "data_pubblicazione": "2025-05-16",
+    "citta": "Pescara",
+    "venditore": {
+      "nome": "Daniele Rosati",
+      "email": "daniele.rosati@gmail.com",
+      "telefono": "+39 349 7778889"
+    }
+  },
+  {
+    "id": 28,
+    "titolo": "Condizionatore Daikin 12000 BTU Inverter",
+    "immagine_principale": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Condizionatore Daikin FTXM35R, 12000 BTU, tecnologia Inverter, classe A+++. Unità interna ed esterna, gas R32 ecologico, funzione Wi-Fi, timer programmabile. Installato 2 anni fa, manutenzione sempre effettuata. Perfetto per ambienti 35mq.",
+    "categoria": "Casa e Giardino",
+    "prezzo": 550,
+    "data_pubblicazione": "2025-05-15",
+    "citta": "Potenza",
+    "venditore": {
+      "nome": "Vincenzo Greco",
+      "email": "vincenzo.greco@libero.it",
+      "telefono": "+39 347 9990001"
+    }
+  },
+  {
+    "id": 29,
+    "titolo": "Kayak gonfiabile 2 posti con accessori",
+    "immagine_principale": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Kayak gonfiabile Sevylor Colorado 2 posti, lunghezza 331cm, materiale PVC rinforzato. Include 2 pagaie, pompa a mano, borsa trasporto, kit riparazione. Utilizzato 5 volte, nessuna perdita o danno. Perfetto per escursioni fluviali e lacustri.",
+    "categoria": "Sport",
+    "prezzo": 180,
+    "data_pubblicazione": "2025-05-14",
+    "citta": "Matera",
+    "venditore": {
+      "nome": "Claudia Luciani",
+      "email": "claudia.luciani@yahoo.it",
+      "telefono": "+39 335 1112223"
+    }
+  },
+  {
+    "id": 30,
+    "titolo": "Scrivania angolare con cassettiera",
+    "immagine_principale": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Scrivania ad angolo con cassettiera integrata, dimensioni 140x120cm, altezza 75cm. Piano in laminato effetto rovere, struttura in metallo verniciato. 3 cassetti con chiusura soft-close, vano computer, passa-cavi integrato. Perfetta per ufficio o studio.",
+    "categoria": "Casa e Giardino",
+    "prezzo": 220,
+    "data_pubblicazione": "2025-05-13",
+    "citta": "Campobasso",
+    "venditore": {
+      "nome": "Riccardo Lombardi",
+      "email": "riccardo.lombardi@gmail.com",
+      "telefono": "+39 342 3334445"
+    }
+  },
+  {
+    "id": 31,
+    "titolo": "Chitarra elettrica Fender Stratocaster Player Series",
+    "immagine_principale": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1511735111819-9a3f7709049c?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Chitarra elettrica Fender Player Stratocaster, corpo in ontano, manico in acero con tastiera in pau ferro, 3 pickup single-coil, colore Polar White. Acquistata nel 2022, suonata principalmente in casa. Include custodia rigida, cavo jack e plettri. Suono cristallino e versatile.",
+    "categoria": "Musica",
+    "prezzo": 750,
+    "data_pubblicazione": "2025-05-17",
+    "citta": "Bari",
+    "venditore": {
+      "nome": "Marco Gentile",
+      "email": "marco.gentile@hotmail.it",
+      "telefono": "+39 340 5556667"
+    }
+  },
+  {
+    "id": 32,
+    "titolo": "iPhone 14 Pro 128GB Space Black",
+    "immagine_principale": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?q=80&w=3388&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "iPhone 14 Pro 128GB in Space Black, acquistato a settembre 2023. Batteria al 89%, sempre utilizzato con cover e pellicola protettiva. Include scatola originale, cavo Lightning-USB-C, pellicola applicata e cover MagSafe. Nessun graffio o danno, perfette condizioni.",
+    "categoria": "Elettronica",
+    "prezzo": 820,
+    "data_pubblicazione": "2025-05-16",
+    "citta": "Lecce",
+    "venditore": {
+      "nome": "Alessandra Martino",
+      "email": "alessandra.martino@gmail.com",
+      "telefono": "+39 338 7778889"
+    }
+  },
+  {
+    "id": 33,
+    "titolo": "Bicicletta da corsa Bianchi Oltre XR3",
+    "immagine_principale": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1571068316344-75bc76f77890?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Bici da corsa Bianchi Oltre XR3 taglia 55, telaio in carbonio, gruppo Shimano Ultegra 11v, ruote Fulcrum Racing 5. Peso 8,2kg, colore celeste classico. Utilizzata per circa 3000km, sempre tenuta in garage. Include pedali Shimano, computer Garmin e borracce. Perfetta per competizioni e allenamenti.",
+    "categoria": "Sport",
+    "prezzo": 2200,
+    "data_pubblicazione": "2025-05-15",
+    "citta": "Foggia",
+    "venditore": {
+      "nome": "Giuseppe Catalano",
+      "email": "giuseppe.catalano@libero.it",
+      "telefono": "+39 346 1112223"
+    }
+  },
+  {
+    "id": 34,
+    "titolo": "Divano 3 posti in pelle marrone",
+    "immagine_principale": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&w=3258&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&w=3258&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Divano 3 posti in vera pelle marrone cognac, marca Natuzzi, dimensioni 210x90x85cm. Struttura in legno massello, imbottitura in piuma d'oca, piedini in noce. Acquistato nel 2021, sempre coperto con telo protettivo. Piccoli segni d'uso ma in ottime condizioni generali.",
+    "categoria": "Casa e Giardino",
+    "prezzo": 1200,
+    "data_pubblicazione": "2025-05-14",
+    "citta": "Taranto",
+    "venditore": {
+      "nome": "Francesca Palumbo",
+      "email": "francesca.palumbo@yahoo.it",
+      "telefono": "+39 333 4445556"
+    }
+  },
+  {
+    "id": 35,
+    "titolo": "Macchina da caffè Gaggia Classic Pro",
+    "immagine_principale": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Macchina da caffè espresso Gaggia Classic Pro, caldaia in ottone, pressione 15 bar, serbatoio 2,1L. Include portafiltro professionale, macinacaffè Eureka Mignon, kit pulizia e decalcificazione. Utilizzata 1 anno, perfettamente funzionante. Ideale per veri amanti del caffè.",
+    "categoria": "Elettronica",
+    "prezzo": 480,
+    "data_pubblicazione": "2025-05-13",
+    "citta": "Brindisi",
+    "venditore": {
+      "nome": "Antonio Ferri",
+      "email": "antonio.ferri@gmail.com",
+      "telefono": "+39 329 6667778"
+    }
+  },
+  {
+    "id": 36,
+    "titolo": "Pianoforte digitale Yamaha P-125",
+    "immagine_principale": "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Pianoforte digitale Yamaha P-125, 88 tasti pesati GHS, 24 suoni, 20 ritmi, connettività USB-MIDI. Include supporto a X, pedaliera sustain, cuffie e spartiti. Perfetto per principianti e intermedi. Acquistato nel 2023, utilizzato per lezioni private. Suono realistico e touch responsivo.",
+    "categoria": "Musica",
+    "prezzo": 520,
+    "data_pubblicazione": "2025-05-12",
+    "citta": "Cosenza",
+    "venditore": {
+      "nome": "Lucia Mancuso",
+      "email": "lucia.mancuso@hotmail.it",
+      "telefono": "+39 345 8889990"
+    }
+  },
+  {
+    "id": 37,
+    "titolo": "Tapis roulant elettrico Technogym MyRun",
+    "immagine_principale": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=3220&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Tapis roulant Technogym MyRun, velocità 0,8-20 km/h, inclinazione 0-12%, superficie corsa 140x50cm, ammortizzazione Deck Cushioning System. Display touchscreen, connettività Bluetooth, app Technogym. Utilizzato saltuariamente, perfetto stato. Include chiave di sicurezza e manuale.",
+    "categoria": "Sport",
+    "prezzo": 1800,
+    "data_pubblicazione": "2025-05-11",
+    "citta": "Catanzaro",
+    "venditore": {
+      "nome": "Roberto Aiello",
+      "email": "roberto.aiello@libero.it",
+      "telefono": "+39 341 2223334"
+    }
+  },
+  {
+    "id": 38,
+    "titolo": "Laptop Gaming ASUS ROG Zephyrus G14",
+    "immagine_principale": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=3271&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=3271&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1484788984921-03950022c9ef?q=80&w=3232&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Laptop gaming ASUS ROG Zephyrus G14, AMD Ryzen 9 5900HS, RTX 3060 6GB, 16GB RAM DDR4, SSD 1TB NVMe, display 14'' QHD 165Hz. Tastiera retroilluminata RGB, AniMe Matrix LED. Acquistato nel 2022, sempre utilizzato per gaming e lavoro. Include caricabatterie originale e zaino gaming.",
+    "categoria": "Elettronica",
+    "prezzo": 1350,
+    "data_pubblicazione": "2025-05-10",
+    "citta": "Reggio Calabria",
+    "venditore": {
+      "nome": "Matteo Greco",
+      "email": "matteo.greco@gmail.com",
+      "telefono": "+39 334 5556667"
+    }
+  },
+  {
+    "id": 39,
+    "titolo": "Set completo attrezzi palestra Bowflex",
+    "immagine_principale": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Set completo home gym Bowflex: panca regolabile, rack per squat, bilanciere olimpico, set dischi ghisa (140kg totali), manubri regolabili, panca scott. Struttura in acciaio verniciato, regolazioni multiple. Utilizzato 2 anni, ottime condizioni. Perfetto per allenamento completo a casa.",
+    "categoria": "Sport",
+    "prezzo": 950,
+    "data_pubblicazione": "2025-05-09",
+    "citta": "Crotone",
+    "venditore": {
+      "nome": "Salvatore Bianchi",
+      "email": "salvatore.bianchi@yahoo.it",
+      "telefono": "+39 327 7778889"
+    }
+  },
+  {
+    "id": 40,
+    "titolo": "Cucina componibile moderna con elettrodomestici",
+    "immagine_principale": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1565183928294-7063f23ce0f8?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Cucina componibile moderna lineare 3,60m, ante laccato bianco lucido, top quarzo grigio, isola centrale con sgabelli. Include elettrodomestici Bosch: forno pirolitico, piano cottura a induzione, cappa aspirante, lavastoviglie, frigorifero combinato. Installata nel 2020, smonto per trasloco.",
+    "categoria": "Casa e Giardino",
+    "prezzo": 4500,
+    "data_pubblicazione": "2025-05-08",
+    "citta": "Vibo Valentia",
+    "venditore": {
+      "nome": "Carla Rossi",
+      "email": "carla.rossi@gmail.com",
+      "telefono": "+39 339 9990001"
+    }
+  },
+  {
+    "id": 41,
+    "titolo": "Amplificatore Marshall DSL40CR valvolare",
+    "immagine_principale": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Amplificatore Marshall DSL40CR combo valvolare 40W, 2 canali, 4 modalità, altoparlante Celestion Seventy 80 da 12'', reverb digitale, loop effetti. Valvole ECC83 e EL34, suono Marshall classico. Acquistato nel 2021, sempre utilizzato in studio. Include footswitch e cover protettiva.",
+    "categoria": "Musica",
+    "prezzo": 450,
+    "data_pubblicazione": "2025-05-07",
+    "citta": "Palermo",
+    "venditore": {
+      "nome": "Davide Messina",
+      "email": "davide.messina@libero.it",
+      "telefono": "+39 348 1112223"
+    }
+  },
+  {
+    "id": 42,
+    "titolo": "Smartphone Samsung Galaxy S23 Ultra 256GB",
+    "immagine_principale": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?q=80&w=3329&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Samsung Galaxy S23 Ultra 256GB Phantom Black, display Dynamic AMOLED 6.8'', fotocamera 200MP, S Pen integrata, 5G, batteria 5000mAh. Acquistato a marzo 2023, sempre con cover e pellicola. Batteria al 92%, nessun danno. Include scatola, caricabatterie, S Pen di ricambio e cover originale.",
+    "categoria": "Elettronica",
+    "prezzo": 950,
+    "data_pubblicazione": "2025-05-06",
+    "citta": "Catania",
+    "venditore": {
+      "nome": "Federica Romano",
+      "email": "federica.romano@gmail.com",
+      "telefono": "+39 335 3334445"
+    }
+  },
+  {
+    "id": 43,
+    "titolo": "Mountain bike Scott Scale 970 hardtail",
+    "immagine_principale": "https://images.unsplash.com/photo-1544191696-15693072e17a?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1544191696-15693072e17a?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1571068316344-75bc76f77890?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Mountain bike Scott Scale 970 hardtail, telaio alluminio taglia L, ruote 29'', cambio Shimano Deore XT 12v, forcella RockShox Judy Silver, freni a disco idraulici. Peso 12,8kg, perfetta per trail e XC. Utilizzata per 2 stagioni, sempre manutenuta. Include pedali clipless e ciclocomputer.",
+    "categoria": "Sport",
+    "prezzo": 1100,
+    "data_pubblicazione": "2025-05-05",
+    "citta": "Messina",
+    "venditore": {
+      "nome": "Andrea Battaglia",
+      "email": "andrea.battaglia@yahoo.it",
+      "telefono": "+39 347 5556667"
+    }
+  },
+  {
+    "id": 44,
+    "titolo": "Armadio 6 ante scorrevoli con specchio",
+    "immagine_principale": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&w=3258&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&w=3258&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Armadio 6 ante scorrevoli 270x210x58cm, laminato bianco opaco, 2 ante centrali con specchio, interno con ripiani regolabili, 2 tubiappendi, 6 cassetti. Marca Mondo Convenienza, acquistato nel 2022. Perfetto per camera matrimoniale, facilita il montaggio. Vendo per cambio arredamento.",
+    "categoria": "Casa e Giardino",
+    "prezzo": 380,
+    "data_pubblicazione": "2025-05-04",
+    "citta": "Siracusa",
+    "venditore": {
+      "nome": "Patrizia Vitale",
+      "email": "patrizia.vitale@hotmail.it",
+      "telefono": "+39 329 7778889"
+    }
+  },
+  {
+    "id": 45,
+    "titolo": "Televisore Samsung QLED 65'' 4K HDR",
+    "immagine_principale": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1567690187548-f07b1d7bf5a9?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "TV Samsung QLED QE65Q70C 65'' 4K HDR, Quantum Processor 4K, tecnologia QLED, Smart TV Tizen, Game Mode, AirPlay 2, Alexa integrata. Acquistato nel 2023, sempre utilizzato con stabilizzatore. Include telecomando originale, staffa da parete, scatola e garanzia residua 1 anno.",
+    "categoria": "Elettronica",
+    "prezzo": 880,
+    "data_pubblicazione": "2025-05-03",
+    "citta": "Agrigento",
+    "venditore": {
+      "nome": "Giovanni Castelli",
+      "email": "giovanni.castelli@libero.it",
+      "telefono": "+39 342 9990001"
+    }
+  },
+  {
+    "id": 46,
+    "titolo": "Basso elettrico Fender Precision Bass American",
+    "immagine_principale": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1511379938547-c1f69419868d?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Fender Precision Bass American Professional II, corpo in ontano, manico in acero con tastiera in palissandro, pickup V-Mod II, colore Olympic White. Acquistato nel 2022, suonato principalmente in studio. Include custodia Fender, tracolla e cavo professionale. Suono caldo e potente classico P-Bass.",
+    "categoria": "Musica",
+    "prezzo": 1350,
+    "data_pubblicazione": "2025-05-02",
+    "citta": "Trapani",
+    "venditore": {
+      "nome": "Simone Parisi",
+      "email": "simone.parisi@gmail.com",
+      "telefono": "+39 336 1112223"
+    }
+  },
+  {
+    "id": 47,
+    "titolo": "Ellittica professionale Life Fitness E1",
+    "immagine_principale": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by-wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Ellittica Life Fitness E1 Go Console, volano 9kg, 20 livelli resistenza, stride 51cm, programmi preimpostati, cardiofrequenzimetro, console touch. Struttura robusta acciaio verniciato, pedali antiscivolo. Utilizzata 1 anno, perfettamente funzionante. Include manuale e kit manutenzione.",
+    "categoria": "Sport",
+    "prezzo": 1200,
+    "data_pubblicazione": "2025-05-01",
+    "citta": "Caltanissetta",
+    "venditore": {
+      "nome": "Mirella Santoro",
+      "email": "mirella.santoro@yahoo.it",
+      "telefono": "+39 333 3334445"
+    }
+  },
+  {
+    "id": 48,
+    "titolo": "Tablet Apple iPad Pro 12.9'' 128GB Wi-Fi",
+    "immagine_principale": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1587033411391-5d9e51cce126?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "iPad Pro 12.9'' 6ª generazione 128GB Wi-Fi Space Gray, chip M2, display Liquid Retina XDR mini-LED, Face ID, fotocamera 12MP. Acquistato nel 2023, sempre con cover e pellicola. Batteria perfetta, nessun graffio. Include Apple Pencil 2ª gen, Magic Keyboard e scatola originale.",
+    "categoria": "Elettronica",
+    "prezzo": 980,
+    "data_pubblicazione": "2025-04-30",
+    "citta": "Enna",
+    "venditore": {
+      "nome": "Luca Morello",
+      "email": "luca.morello@hotmail.it",
+      "telefono": "+39 345 5556667"
+    }
+  },
+  {
+    "id": 49,
+    "titolo": "Cameretta completa bambini con letto a castello",
+    "immagine_principale": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&w=3258&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&w=3258&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Cameretta completa bambini/ragazzi: letto a castello in legno massello con scaletta, scrivania con cassettiera, armadio 3 ante, libreria a ponte, sedia ergonomica. Colore bianco/azzurro, materassi inclusi. Perfetta per fratelli o sorelle. Acquistata nel 2021, ottimo stato, smonto per trasloco.",
+    "categoria": "Casa e Giardino",
+    "prezzo": 850,
+    "data_pubblicazione": "2025-04-29",
+    "citta": "Ragusa",
+    "venditore": {
+      "nome": "Elena Marotta",
+      "email": "elena.marotta@gmail.com",
+      "telefono": "+39 328 7778889"
+    }
+  },
+  {
+    "id": 50,
+    "titolo": "Skateboard completo professionale Element",
+    "immagine_principale": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1547036967-23d11aacaee0?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1520175480921-4edfa2983e0f?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Skateboard completo Element Section 7.75'', deck in acero canadese 7 strati, truck Independent Stage 11, ruote Spitfire Formula Four 53mm, cuscinetti Bones Red. Grip tape nero Element, viti Allen. Utilizzato per 6 mesi, perfetto per street e park. Include tool per manutenzione e grip extra.",
+    "categoria": "Sport",
+    "prezzo": 120,
+    "data_pubblicazione": "2025-04-28",
+    "citta": "Gela",
+    "venditore": {
+      "nome": "Mattia Russo",
+      "email": "mattia.russo@libero.it",
+      "telefono": "+39 340 9990001"
+    }
+  },
+  {
+    "id": 51,
+    "titolo": "Violino 4/4 con custodia e archetto",
+    "immagine_principale": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1465847899084-d164df4dedc4?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Violino 4/4 artigianale, tavola armonica in abete, fondo e fasce in acero fiammato, tastiera in ebano, cordiera in palissandro. Include custodia imbottita, archetto in legno del Brasile, mentoniera, spalliera regolabile, colofonia e corde di ricambio. Perfetto per studenti intermedi e avanzati.",
+    "categoria": "Musica",
+    "prezzo": 420,
+    "data_pubblicazione": "2025-04-27",
+    "citta": "Salerno",
+    "venditore": {
+      "nome": "Francesca Marino",
+      "email": "francesca.marino@gmail.com",
+      "telefono": "+39 331 2223334"
+    }
+  },
+  {
+    "id": 52,
+    "titolo": "MacBook Pro 14'' M2 Pro 512GB Space Gray",
+    "immagine_principale": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=3326&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=3326&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=3271&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "MacBook Pro 14'' M2 Pro 10-core CPU, 16-core GPU, 16GB RAM, SSD 512GB, display Liquid Retina XDR, Touch ID, 3 porte Thunderbolt 4. Acquistato nel 2023, sempre utilizzato con cover protettiva. Cicli batteria: 87, perfette condizioni. Include caricabatterie MagSafe 3 e scatola originale.",
+    "categoria": "Elettronica",
+    "prezzo": 2100,
+    "data_pubblicazione": "2025-04-26",
+    "citta": "Avellino",
+    "venditore": {
+      "nome": "Alessandro Esposito",
+      "email": "alessandro.esposito@hotmail.com",
+      "telefono": "+39 349 4445556"
+    }
+  },
+  {
+    "id": 53,
+    "titolo": "Monopattino elettrico Xiaomi Pro 2",
+    "immagine_principale": "https://images.unsplash.com/photo-1571068316344-75bc76f77890?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1571068316344-75bc76f77890?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1544191696-15693072e17a?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Monopattino elettrico Xiaomi Mi Electric Scooter Pro 2, velocità max 25km/h, autonomia 45km, motore 300W, ruote 8.5'' tubeless, freni a disco, display LED, app Mi Home. Utilizzato per 8 mesi per tragitti casa-lavoro. Batteria ancora efficiente, pneumatici nuovi. Include caricabatterie originale.",
+    "categoria": "Sport",
+    "prezzo": 280,
+    "data_pubblicazione": "2025-04-25",
+    "citta": "Benevento",
+    "venditore": {
+      "nome": "Carmine Vitale",
+      "email": "carmine.vitale@libero.it",
+      "telefono": "+39 347 6667778"
+    }
+  },
+  {
+    "id": 54,
+    "titolo": "Lavatrice Bosch 9kg Classe A+++",
+    "immagine_principale": "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Lavatrice Bosch WAW28500IT Serie 8, carico 9kg, classe energetica A+++, centrifuga 1400 giri, display TFT, tecnologia i-DOS dosaggio automatico, 15 programmi, funzione vapore AntiMacchia. Acquistata nel 2022, sempre manutenuta regolarmente. Perfettamente funzionante, garanzia estesa ancora valida.",
+    "categoria": "Casa e Giardino",
+    "prezzo": 480,
+    "data_pubblicazione": "2025-04-24",
+    "citta": "Caserta",
+    "venditore": {
+      "nome": "Maria Rossi",
+      "email": "maria.rossi@yahoo.it",
+      "telefono": "+39 334 8889990"
+    }
+  },
+  {
+    "id": 55,
+    "titolo": "Console Sony PlayStation 5 con 2 controller",
+    "immagine_principale": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1591123720007-6e0eed5c9f87?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "PlayStation 5 Standard Edition con lettore Blu-ray, 2 controller DualSense (bianco e nero), cuffie Pulse 3D, base di ricarica controller, 5 giochi inclusi: Spider-Man Miles Morales, Demon's Souls, Ratchet & Clank, FIFA 24, Call of Duty MW3. Acquistata nel 2023, perfette condizioni.",
+    "categoria": "Elettronica",
+    "prezzo": 650,
+    "data_pubblicazione": "2025-04-23",
+    "citta": "Napoli",
+    "venditore": {
+      "nome": "Vincenzo Gallo",
+      "email": "vincenzo.gallo@gmail.com",
+      "telefono": "+39 320 1112223"
+    }
+  },
+  {
+    "id": 56,
+    "titolo": "Sassofono alto Yamaha YAS-280",
+    "immagine_principale": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1465847899084-d164df4dedc4?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Sassofono alto Yamaha YAS-280 in Mib, corpo in ottone laccato oro, chiavi in nichelato, meccanica precisa, suono caldo e brillante. Include custodia rigida, bocchino 4C, fascetta, ance Rico 2.5, panno pulizia, grasso per sugheri. Perfetto per studenti e semi-professionisti. Revisione appena effettuata.",
+    "categoria": "Musica",
+    "prezzo": 680,
+    "data_pubblicazione": "2025-04-22",
+    "citta": "Battipaglia",
+    "venditore": {
+      "nome": "Paolo Caputo",
+      "email": "paolo.caputo@hotmail.it",
+      "telefono": "+39 338 3334445"
+    }
+  },
+  {
+    "id": 57,
+    "titolo": "Panca multifunzione Technogym Plurima",
+    "immagine_principale": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Panca multifunzione Technogym Plurima, stazione completa: lat machine, pulley basso, leg extension, leg curl, dip station, trazioni. Pesi inclusi 80kg, struttura in acciaio verniciato, sedute regolabili, cavi in acciaio rivestito. Perfetta per allenamento completo corpo. Utilizzata in palestra privata.",
+    "categoria": "Sport",
+    "prezzo": 1400,
+    "data_pubblicazione": "2025-04-21",
+    "citta": "Scafati",
+    "venditore": {
+      "nome": "Raffaele Di Maio",
+      "email": "raffaele.dimaio@libero.it",
+      "telefono": "+39 346 5556667"
+    }
+  },
+  {
+    "id": 58,
+    "titolo": "Frigorifero americano Samsung Side by Side",
+    "immagine_principale": "https://images.unsplash.com/photo-1571175443880-49e1d25b2bc5?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1571175443880-49e1d25b2bc5?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Frigorifero americano Samsung RS68N8240S9 617L, classe A++, No Frost, dispenser acqua e ghiaccio, illuminazione LED, ripiani in cristallo temperato, cassetti Big Box, tecnologia Twin Cooling Plus. Dimensioni: 91x70x178cm. Acquistato nel 2021, perfettamente funzionante, vendo per trasloco.",
+    "categoria": "Casa e Giardino",
+    "prezzo": 780,
+    "data_pubblicazione": "2025-04-20",
+    "citta": "Torre del Greco",
+    "venditore": {
+      "nome": "Antonietta Sorrentino",
+      "email": "antonietta.sorrentino@gmail.com",
+      "telefono": "+39 333 7778889"
+    }
+  },
+  {
+    "id": 59,
+    "titolo": "Droni DJI Mini 3 Pro con controller RC",
+    "immagine_principale": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1473968512647-3e447244af8f?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1551808525-51a94da548ce?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Drone DJI Mini 3 Pro, camera 4K/60fps, gimbal 3 assi, peso 249g, autonomia 34 min, sensori ostacoli, Active Track 4.0, controller RC con display. Include 2 batterie extra, caricabatterie multiplo, microSD 128GB, borsa trasporto, eliche di ricambio. Utilizzato per fotografia paesaggistica, 15 ore di volo.",
+    "categoria": "Elettronica",
+    "prezzo": 680,
+    "data_pubblicazione": "2025-04-19",
+    "citta": "Castellammare di Stabia",
+    "venditore": {
+      "nome": "Fabio Russo",
+      "email": "fabio.russo@yahoo.it",
+      "telefono": "+39 329 9990001"
+    }
+  },
+  {
+    "id": 60,
+    "titolo": "Tavolo da pranzo allungabile in noce massello",
+    "immagine_principale": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&w=3258&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&w=3258&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Tavolo da pranzo in noce massello, dimensioni 160x90cm allungabile fino a 220cm, gambe tornite, finitura naturale cerata. Realizzato da falegname artigiano, legno stagionato 3 anni. Include 6 sedie coordinate con seduta in paglia di Vienna. Perfetto per sala da pranzo elegante. Piccoli segni d'uso ma strutturalmente perfetto.",
+    "categoria": "Casa e Giardino",
+    "prezzo": 1200,
+    "data_pubblicazione": "2025-04-18",
+    "citta": "Sorrento",
+    "venditore": {
+      "nome": "Giuseppe Santoro",
+      "email": "giuseppe.santoro@libero.it",
+      "telefono": "+39 342 1112223"
+    }
+  },
+  {
+    "id": 61,
+    "titolo": "Pianoforte digitale Yamaha P-125 88 tasti pesati",
+    "immagine_principale": "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Pianoforte digitale Yamaha P-125, 88 tasti con azione pesata GHS, 24 voci, polifonia 192 note, connettività USB, app Smart Pianist, altoparlanti stereo 7W+7W. Include supporto a X, pedale sustain, leggio, custodia morbida. Acquistato 2023, utilizzato per studio domestico, condizioni eccellenti. Perfetto per principianti e intermedi.",
+    "categoria": "Musica",
+    "prezzo": 450,
+    "data_pubblicazione": "2025-06-10",
+    "citta": "Napoli",
+    "venditore": {
+      "nome": "Maria Rossi",
+      "email": "maria.rossi@gmail.com",
+      "telefono": "+39 338 1234567"
+    }
+  },
+  {
+    "id": 62,
+    "titolo": "Chitarra elettrica Fender Player Stratocaster",
+    "immagine_principale": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Fender Player Stratocaster HSS Messico, body alnus, manico acero, tastiera pau ferro, pickup Humbucker al ponte, tremolo vintage, colore Polar White. Include custodia rigida Fender, tracolla, plettri, cavo jack 3mt. Setup professionale recente, action bassa, intonazione perfetta. Poche ore di utilizzo, praticamente nuova.",
+    "categoria": "Musica",
+    "prezzo": 680,
+    "data_pubblicazione": "2025-06-09",
+    "citta": "Salerno",
+    "venditore": {
+      "nome": "Alessandro Bianchi",
+      "email": "alessandro.bianchi@hotmail.it",
+      "telefono": "+39 347 2345678"
+    }
+  },
+  {
+    "id": 63,
+    "titolo": "MacBook Pro 14\" M2 Pro 16GB 512GB Space Gray",
+    "immagine_principale": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=3326&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=3326&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "MacBook Pro 14\" 2023, chip M2 Pro 12-core CPU/19-core GPU, 16GB RAM unificata, SSD 512GB, display Liquid Retina XDR, Touch ID, tastiera retroilluminata, 3 porte Thunderbolt 4, slot SDXC, HDMI. Include caricatore MagSafe 3 67W, scatola originale, documentazione. Cicli batteria: 89. Garanzia Apple fino a marzo 2026.",
+    "categoria": "Elettronica",
+    "prezzo": 1850,
+    "data_pubblicazione": "2025-06-08",
+    "citta": "Avellino",
+    "venditore": {
+      "nome": "Francesco Verde",
+      "email": "francesco.verde@gmail.com",
+      "telefono": "+39 320 3456789"
+    }
+  },
+  {
+    "id": 64,
+    "titolo": "PlayStation 5 Standard Edition + 2 controller",
+    "immagine_principale": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1622297845775-5ff3fef71d13?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "PlayStation 5 Standard Edition con lettore Blu-ray, SSD 825GB, ray tracing, audio 3D Tempest, due controller DualSense wireless, base verticale, cavi HDMI e alimentazione. Include 5 giochi: Spider-Man Miles Morales, Demon's Souls, Ratchet & Clank, Horizon Forbidden West, God of War Ragnarök. Acquistata fine 2023, perfette condizioni.",
+    "categoria": "Elettronica",
+    "prezzo": 450,
+    "data_pubblicazione": "2025-06-07",
+    "citta": "Caserta",
+    "venditore": {
+      "nome": "Luca Esposito",
+      "email": "luca.esposito@yahoo.it",
+      "telefono": "+39 331 4567890"
+    }
+  },
+  {
+    "id": 65,
+    "titolo": "Yamaha YZF-R3 320cc 2022 - 8.500 km",
+    "immagine_principale": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Yamaha YZF-R3 2022, motore bicilindrico 321cc 42CV, ABS, display LCD multifunzione, 8.500 km certificati, tagliandi regolari Yamaha, gomme Michelin Road 5 nuove, catena e corona appena sostituite. Moto tenuta in garage, non caduta, perfetta per neopatentati A2. Include cavalletto posteriore, cover antipolvere. Vendo per passaggio a moto maggiore.",
+    "categoria": "Auto e Moto",
+    "prezzo": 4200,
+    "data_pubblicazione": "2025-06-06",
+    "citta": "Benevento",
+    "venditore": {
+      "nome": "Marco Gallo",
+      "email": "marco.gallo@libero.it",
+      "telefono": "+39 340 5678901"
+    }
+  },
+  {
+    "id": 66,
+    "titolo": "Volkswagen Golf 8 1.5 TSI 150CV DSG Life 2021",
+    "immagine_principale": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1502877338535-766e1452684a?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWDlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "VW Golf 8 allestimento Life, motore 1.5 TSI EVO 150CV, cambio DSG 7 rapporti, 35.000 km, colore Grigio Urano metallizzato. Dotazioni: climatizzatore automatico, Digital Cockpit Pro, infotainment 8.25\", Car-Net, App-Connect, sensori parcheggio, cruise control, Lane Assist. Tagliandi VW, mai incidentata, gommata nuova Michelin. Garanzia 12 mesi.",
+    "categoria": "Auto e Moto",
+    "prezzo": 19500,
+    "data_pubblicazione": "2025-06-05",
+    "citta": "Nola",
+    "venditore": {
+      "nome": "Concessionaria AutoSud",
+      "email": "vendite@autosud.it",
+      "telefono": "+39 081 6789012"
+    }
+  },
+  {
+    "id": 67,
+    "titolo": "Giacca The North Face Summit Series Gore-Tex Pro",
+    "immagine_principale": "https://images.unsplash.com/photo-1544966503-7cc5ac882d5f?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG120by1wYWDlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5f?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWDlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1521774971864-62c78248d4e0?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWDlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Giacca The North Face Summit Series L5 Gore-Tex Pro, taglia M, colore nero/arancione, membrana impermeabile-traspirante 3 strati, cuciture nastrate, cappuccio regolabile casco-compatibile, zip impermeabili YKK AquaGuard, tasche chest harness. Utilizzata 3 uscite alpinismo, condizioni pari al nuovo. Prezzo originale €650. Perfetta per alta montagna e condizioni estreme.",
+    "categoria": "Abbigliamento",
+    "prezzo": 380,
+    "data_pubblicazione": "2025-06-04",
+    "citta": "Pompei",
+    "venditore": {
+      "nome": "Giorgio Monti",
+      "email": "giorgio.monti@gmail.com",
+      "telefono": "+39 349 7890123"
+    }
+  },
+  {
+    "id": 68,
+    "titolo": "Sneakers Nike Air Jordan 1 Retro High OG taglia 42",
+    "immagine_principale": "https://images.unsplash.com/photo-1556906781-9a412961c28c?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWDlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1556906781-9a412961c28c?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWDlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWDlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Nike Air Jordan 1 Retro High OG \"Bred Toe\" taglia EU 42 (US 8.5), colorway bianco/nero/rosso, tomaia pelle premium, suola gomma con Air-Sole, lacci rossi e neri inclusi. Condizioni 9/10, indossate 4-5 volte, sempre con sneaker shield. Scatola originale, etichette, carta velina. Modello iconico 1985 retrò, perfetto per collezione o uso quotidiano. No scambi.",
+    "categoria": "Abbigliamento",
+    "prezzo": 220,
+    "data_pubblicazione": "2025-06-03",
+    "citta": "Ercolano",
+    "venditore": {
+      "nome": "Davide Blu",
+      "email": "davide.blu@hotmail.com",
+      "telefono": "+39 333 8901234"
+    }
+  },
+  {
+    "id": 69,
+    "titolo": "Appartamento 3 vani arredato zona Chiaia",
+    "immagine_principale": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWDlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWDlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWDlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Appartamento 85 mq al 3° piano con ascensore, Via Chiaia, 2 camere da letto, soggiorno, cucina abitabile, bagno con doccia, balcone 8 mq vista mare laterale. Completamente arredato: cucina Ikea, divano letto, tavolo allungabile, armadi, letto matrimoniale, aria condizionata, lavatrice. Ristrutturato 2023, parquet, infissi PVC, termo autonomo. Metro Chiaia 200mt. Libero da luglio.",
+    "categoria": "Immobili",
+    "prezzo": 850,
+    "data_pubblicazione": "2025-06-02",
+    "citta": "Napoli",
+    "venditore": {
+      "nome": "Agenzia Immobiliare Partenope",
+      "email": "info@immobilipartenope.it",
+      "telefono": "+39 081 9012345"
+    }
+  },
+  {
+    "id": 70,
+    "titolo": "Villa indipendente con giardino - Vico Equense",
+    "immagine_principale": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWDlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWDlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWRlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Villa indipendente 150 mq su 2 livelli, giardino 400 mq con ulivi e limoni, vista panoramica Golfo di Napoli. Piano terra: soggiorno con camino, cucina, bagno, veranda. Piano primo: 3 camere, 2 bagni, terrazza 30 mq. Garage 25 mq, cantina, pozzo artesiano, cancello automatico. Zona tranquilla, 5 min auto centro Vico Equense, 10 min Circumvesuviana. Perfetta come casa vacanze o residenza.",
+    "categoria": "Immobili",
+    "prezzo": 320000,
+    "data_pubblicazione": "2025-06-01",
+    "citta": "Vico Equense",
+    "venditore": {
+      "nome": "Stefania Russo",
+      "email": "stefania.russo@gmail.com",
+      "telefono": "+39 334 0123456"
+    }
+  },
+  {
+    "id": 71,
+    "titolo": "Set batteria acustica Pearl Export 5 pezzi + piatti",
+    "immagine_principale": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Batteria Pearl Export EXX725S 5 pezzi: grancassa 22\", tom 10\" e 12\", floor tom 16\", rullante 14\". Colore Smokey Chrome. Include set piatti Sabian SBR: hi-hat 14\", crash 16\", ride 20\", splash 10\". Supporti Pearl, sgabello, bacchette Vic Firth 5A. Pelli Remo Ambassador coated nuove. Perfetta per studio e live, suono potente e definito. Vendo per cambio setup.",
+    "categoria": "Musica",
+    "prezzo": 580,
+    "data_pubblicazione": "2025-06-11",
+    "citta": "Portici",
+    "venditore": {
+      "nome": "Antonio Drummers",
+      "email": "antonio.drummers@gmail.com",
+      "telefono": "+39 346 1357924"
+    }
+  },
+  {
+    "id": 72,
+    "titolo": "Violino 4/4 tedesco inizio '900 con custodia",
+    "immagine_principale": "https://images.unsplash.com/photo-1612225330812-01a9c6b355ec?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1612225330812-01a9c6b355ec?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Violino 4/4 di liuteria tedesca primi '900, tavola abete massiccio, fondo acero fiammato, vernice ad olio originale. Etichetta interna \"J. Scheurer Mittenwald 1912\". Suono caldo e potente, ideale per studio avanzato e concertismo. Include custodia rigida, archetto ebano/crine mongolia, cordiera con 4 micro-accordatori, corde Dominant. Periziato da liutaio, certificato autenticità. Condizioni eccellenti.",
+    "categoria": "Musica",
+    "prezzo": 1200,
+    "data_pubblicazione": "2025-06-10",
+    "citta": "Sant'Anastasia",
+    "venditore": {
+      "nome": "Maestro Vincenzo Violini",
+      "email": "vincenzo.violini@conservatorio.it",
+      "telefono": "+39 339 2468135"
+    }
+  },
+  {
+    "id": 73,
+    "titolo": "iPhone 15 Pro Max 256GB Titanio Naturale",
+    "immagine_principale": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1695048133142-1a20484d2569?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1556656793-08538906a9f8?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "iPhone 15 Pro Max 256GB Titanio Naturale, chip A17 Pro, fotocamera 48MP con teleobiettivo 5x, Action Button, porta USB-C, costruzione titanio. Acquistato a novembre 2023, utilizzato con cover e pellicola da sempre, condizioni pari al nuovo. Batteria 100%, Face ID perfetto. Include scatola, cavo USB-C, cover Apple originale in pelle, pellicola schermo. Garanzia Apple fino a novembre 2024.",
+    "categoria": "Elettronica",
+    "prezzo": 1150,
+    "data_pubblicazione": "2025-06-09",
+    "citta": "Giugliano in Campania",
+    "venditore": {
+      "nome": "Simone Tech",
+      "email": "simone.tech@outlook.com",
+      "telefono": "+39 327 1928374"
+    }
+  },
+  {
+    "id": 74,
+    "titolo": "Smart TV Samsung 65\" QLED 4K Q80C 2023",
+    "immagine_principale": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Smart TV Samsung QE65Q80C 65\" QLED 4K, processore Neural Quantum 4K, Direct Full Array, HDR10+, Dolby Atmos, Tizen OS, gaming 4K@120Hz, HDMI 2.1, WiFi 6. Telecomando Solar One Remote, supporto da tavolo incluso. Acquistata marzo 2023, pochissimo utilizzo, tenuta in salotto per ospiti. Scatola originale, manuali, garanzia Samsung. Perfetta per gaming e streaming. Ritiro a domicilio.",
+    "categoria": "Elettronica",
+    "prezzo": 850,
+    "data_pubblicazione": "2025-06-08",
+    "citta": "Pozzuoli",
+    "venditore": {
+      "nome": "Elena Multimediale",
+      "email": "elena.multi@libero.it",
+      "telefono": "+39 335 5647382"
+    }
+  },
+  {
+    "id": 75,
+    "titolo": "BMW X3 xDrive20d MSport 2020 - 45.000 km",
+    "immagine_principale": "https://images.unsplash.com/photo-1555215695-3004980ad54e?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1555215695-3004980ad54e?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "BMW X3 xDrive20d MSport G01, motore 2.0 diesel 190CV, trazione integrale, cambio automatico Steptronic 8 rapporti, 45.000 km. Colore Nero Carbonio metallizzato, interni pelle/alcantara neri. Equipaggiamenti: Professional Nav, BMW Live Cockpit, telecamera posteriore, sensori 360°, climatizzatore bi-zona, sedili sport, cerchi 19\" MSport. Tagliandi BMW, gommata Michelin nuova. Garanzia 12 mesi.",
+    "categoria": "Auto e Moto",
+    "prezzo": 32500,
+    "data_pubblicazione": "2025-06-07",
+    "citta": "Afragola",
+    "venditore": {
+      "nome": "BMW Premium Selection",
+      "email": "usato@bmwpremium.it",
+      "telefono": "+39 081 3456789"
+    }
+  },
+  {
+    "id": 76,
+    "titolo": "Ducati Monster 797 2017 - 12.000 km ABS",
+    "immagine_principale": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Ducati Monster 797 2017, motore L-twin Desmodromico 803cc 75CV, ABS Bosch, telaio traliccio rosso, scarico in vista, sella biposto, faro full LED. 12.000 km certificati, tagliandi Ducati, gomme Pirelli Diablo Rosso III nuove, freni appena revisionati. Colore rosso Ducati originale, mai caduta, tenuta in garage. Include bauletto Givi, paramani, cover. Perfetta per città e weekend. Visibile anche la sera.",
+    "categoria": "Auto e Moto",
+    "prezzo": 6800,
+    "data_pubblicazione": "2025-06-06",
+    "citta": "Acerra",
+    "venditore": {
+      "nome": "Roberto Motori",
+      "email": "roberto.motori@ducati.com",
+      "telefono": "+39 348 9876543"
+    }
+  },
+  {
+    "id": 77,
+    "titolo": "Piumino Canada Goose Chateau Parka Black L",
+    "immagine_principale": "https://images.unsplash.com/photo-1544966503-7cc5ac882d5f?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5f?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Canada Goose Chateau Parka taglia L, colore nero, imbottitura piuma d'oca 625 cuin, cappuccio staccabile con bordatura coyote, tessuto Arctic-Tech impermeabile, temperatura comfort -25°C. Tasche multiple, polsini a coste, patch Canada Goose originale. Acquistato da Luisa Via Roma €850, indossato 2 inverni, condizioni 8.5/10. Include dustbag originale. Perfetto per inverni rigidi e viaggi in montagna.",
+    "categoria": "Abbigliamento",
+    "prezzo": 480,
+    "data_pubblicazione": "2025-06-05",
+    "citta": "Marano di Napoli",
+    "venditore": {
+      "nome": "Claudio Fashion",
+      "email": "claudio.fashion@yahoo.it",
+      "telefono": "+39 340 1122334"
+    }
+  },
+  {
+    "id": 78,
+    "titolo": "Rolex Submariner Date 116610LN acciaio nero",
+    "immagine_principale": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?q=80&w=3199&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1524592094714-0f0654e20314?q=80&w=3199&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1547996160-81dfa63595aa?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Rolex Submariner Date ref. 116610LN, cassa acciaio 904L 40mm, lunetta ceramica Cerachrom nera unidirezionale, quadrante nero, bracciale Oyster, movimento 3135 automatico certificato cronometro. Anno 2018, scatola e garanzia Rolex originali, carta garanzia timbrata AD italiano. Condizioni eccellenti, micro-graffi d'uso normale, mai aperto, mai caduto. Collezione privata, autenticità garantita. Solo trattative serie.",
+    "categoria": "Abbigliamento",
+    "prezzo": 8500,
+    "data_pubblicazione": "2025-06-04",
+    "citta": "Capri",
+    "venditore": {
+      "nome": "Luxury Timepieces",
+      "email": "info@luxurytime.it",
+      "telefono": "+39 329 5566778"
+    }
+  },
+  {
+    "id": 79,
+    "titolo": "Attico con terrazza panoramica Centro Storico",
+    "immagine_principale": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?q=80&w=3275&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?q=80&w=3275&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Attico 120 mq ultimo piano con ascensore, Via dei Tribunali, completamente ristrutturato 2024. Soggiorno 40 mq con cucina a vista, 2 camere matrimoniali, 2 bagni con doccia, terrazza panoramica 80 mq vista Vesuvio/mare. Travi a vista, pavimenti in pietra lavica, aria condizionata, domotica, infissi blindati. Terrazza con pergolato, jacuzzi, zona barbecue. Cantina 15 mq. Ideale investimento turistico o residenza di prestigio.",
+    "categoria": "Immobili",
+    "prezzo": 495000,
+    "data_pubblicazione": "2025-06-03",
+    "citta": "Napoli",
+    "venditore": {
+      "nome": "Luxury Real Estate Naples",
+      "email": "luxury@realestate.na.it",
+      "telefono": "+39 081 5678901"
+    }
+  },
+  {
+    "id": 80,
+    "titolo": "Locale commerciale 150mq fronte strada",
+    "immagine_principale": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1497366811353-6870744d04b2?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufoDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Locale commerciale 150 mq piano terra, Corso Umberto I altissimo passaggio pedonale, vetrine 8 metri lineari, altezza 4 metri, due ingressi indipendenti. Impianto elettrico a norma, climatizzazione, antibagno, deposito 20 mq, posto auto privato. Ideale per negozio, showroom, ufficio, studio professionale. Licenze commerciali facilitabili. Zona ZTL con permesso carico/scarico. Libero subito, contratto 6+6 anni. Referenze richieste.",
+    "categoria": "Immobili",
+    "prezzo": 2800,
+    "data_pubblicazione": "2025-06-02",
+    "citta": "Salerno",
+    "venditore": {
+      "nome": "Immobiliare Commerciale Sud",
+      "email": "commerciale@immobiliaresud.com",
+      "telefono": "+39 089 7890123"
+    }
+  },
+  {
+    "id": 81,
+    "titolo": "Amplificatore valvolare Marshall DSL40CR 40W",
+    "immagine_principale": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Marshall DSL40CR combo 1x12\" Celestion Seventy 80, 40W valvolare, 2 canali Classic Gain/Ultra Gain, EQ a 3 bande, reverb digitale, loop effetti, uscita DI emulata, controllo risonanza/presenza. Valvole ECC83 pre e EL34 finali appena sostituite. Suono Marshall classico da Plexi a modern high gain. Footswitch incluso. Perfetto per studio, sala prove e piccoli live. Pochissimo utilizzo, pari al nuovo.",
+    "categoria": "Musica",
+    "prezzo": 380,
+    "data_pubblicazione": "2025-06-11",
+    "citta": "Scafati",
+    "venditore": {
+      "nome": "Rock Music Store",
+      "email": "info@rockmusicstore.it",
+      "telefono": "+39 334 4455667"
+    }
+  },
+  {
+    "id": 82,
+    "titolo": "Sassofono tenore Yamaha YTS-62 professionale",
+    "immagine_principale": "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?q=80&w=3149&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?q=80&w=3149&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Yamaha YTS-62 sassofono tenore professionale, corpo ottone, chiavi argentate, meccanica di precisione, intonazione impeccabile, suono caldo e proiettato. Modello utilizzato da professionisti jazz e classici. Include custodia rigida Yamaha, bocchino Yamaha 4C, fascetta BG, ancia sintetiche Légère. Revisione completa presso tecnico autorizzato, tamponi nuovi, regolazioni perfette. Stato conservativo eccellente, pronto per concerti e registrazioni.",
+    "categoria": "Musica",
+    "prezzo": 1650,
+    "data_pubblicazione": "2025-06-10",
+    "citta": "Torre Annunziata",
+    "venditore": {
+      "nome": "Maestro Giovanni Jazz",
+      "email": "giovanni.jazz@conservatorio.eu",
+      "telefono": "+39 341 7788990"
+    }
+  },
+  {
+    "id": 83,
+    "titolo": "Notebook MSI Gaming GF63 RTX 4050 16GB",
+    "immagine_principale": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?q=80&w=3268&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1603302576837-37561b2e2302?q=80&w=3268&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "MSI Thin GF63 15.6\" gaming laptop, Intel Core i7-13620H, NVIDIA RTX 4050 6GB GDDR6, 16GB DDR4, SSD NVMe 512GB, display 144Hz Full HD IPS, tastiera RGB retroilluminata, WiFi 6, Windows 11 Home. Acquistato marzo 2024, utilizzato per gaming occasionale e studio universitario. Prestazioni eccellenti su titoli AAA, perfetto per content creation. Include zaino gaming MSI, mouse pad, caricatore. Garanzia MSI 18 mesi residui.",
+    "categoria": "Elettronica",
+    "prezzo": 850,
+    "data_pubblicazione": "2025-06-09",
+    "citta": "Battipaglia",
+    "venditore": {
+      "nome": "Studente Marco Gaming",
+      "email": "marco.gaming@studenti.unisa.it",
+      "telefono": "+39 328 1122334"
+    }
+  },
+  {
+    "id": 84,
+    "titolo": "Camera fotografica Canon EOS R6 Mark II body",
+    "immagine_principale": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1606983340126-99ab4feaa64a?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Canon EOS R6 Mark II mirrorless full frame 24.2MP, sensore CMOS Dual Pixel II, processore DIGIC X, stabilizzazione IBIS 8 stop, video 4K60p, raffica 40fps, dual slot SD/CF Express. Mirino EVF 3.69M punti, LCD touchscreen orientabile. Solo corpo macchina, scatti: 8.200. Acquistata per progetto fotografico completato, utilizzata con cura maniacale. Include 2 batterie originali, caricatore, tracolla Peak Design. Imballo originale.",
+    "categoria": "Elettronica",
+    "prezzo": 1850,
+    "data_pubblicazione": "2025-06-08",
+    "citta": "Amalfi",
+    "venditore": {
+      "nome": "Fotografo Professionale Costa",
+      "email": "info@fotografocosta.com",
+      "telefono": "+39 347 9988776"
+    }
+  },
+  {
+    "id": 85,
+    "titolo": "Fiat 500X Cross 1.3 MultiJet 95CV 2021",
+    "immagine_principale": "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1502877338535-766e1452684a?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Fiat 500X Cross 1.3 MultiJet II 95CV, cambio manuale 6 marce, trazione anteriore, 28.000 km. Colore Bianco Gelato, allestimento Cross con protezioni plastiche, barre tetto, cerchi 17\". Dotazioni: UConnect 7\", clima automatico, cruise control, sensori parcheggio posteriori, fendinebbia, bluetooth. Prima proprietaria anziana, utilizzo cittadino, tagliandi Fiat regolari, pneumatici 85%. Perfetta per giovane famiglia, consumi 4.8L/100km. Visibile anche domenica.",
+    "categoria": "Auto e Moto",
+    "prezzo": 16200,
+    "data_pubblicazione": "2025-06-07",
+    "citta": "Eboli",
+    "venditore": {
+      "nome": "Signora Anna Fiat",
+      "email": "anna.fiat@gmail.com",
+      "telefono": "+39 339 5544332"
+    }
+  },
+  {
+    "id": 86,
+    "titolo": "Vespa Primavera 150 ABS 2023 - 2.800 km",
+    "immagine_principale": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1449426468159-d96dbf08f19f?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Vespa Primavera 150cc iGet ABS 2023, motore monocilindrico 4T raffreddato aria, 12.9CV, cambio automatico CVT, freno ABS posteriore. Colore Verde Relax 334/A, sella biposto, bauletto posteriore 32L, parabrezza fumé alto, pedana passeggero. Solo 2.800 km, primo tagliando Piaggio effettuato, gomme Michelin City Grip quasi nuove. Perfetta per città e gite fuori porta. Include casco Vespa taglia M, catena antifurto, telo coprimoto.",
+    "categoria": "Auto e Moto",
+    "prezzo": 3800,
+    "data_pubblicazione": "2025-06-06",
+    "citta": "Positano",
+    "venditore": {
+      "nome": "Lucia Vespa Costa",
+      "email": "lucia.vespa@positano.it",
+      "telefono": "+39 333 2211445"
+    }
+  },
+  {
+    "id": 87,
+    "titolo": "Moncler Maya Jacket Nero Lucido taglia 3 (L)",
+    "immagine_principale": "https://images.unsplash.com/photo-1544966503-7cc5ac882d5f?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5f?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Moncler Maya giacca piumino iconico taglia 3 (L), nylon laqué nero lucido, imbottitura piuma d'oca 90/10, cappuccio fisso, zip YKK, logo Moncler feltro applicato, etichetta autenticità NFC. Modello bestseller senza tempo, calore eccezionale fino a -15°C. Acquistato boutique Moncler Milano €1.150, indossato 1 stagione, condizioni 9/10. Include dustbag originale, cartellini, certificato autenticità. Iconico e inconfondibile, vestibilità perfetta.",
+    "categoria": "Abbigliamento",
+    "prezzo": 650,
+    "data_pubblicazione": "2025-06-05",
+    "citta": "Sorrento",
+    "venditore": {
+      "nome": "Luxury Fashion Sorrento",
+      "email": "luxury@fashionsorrento.it",
+      "telefono": "+39 331 6677889"
+    }
+  },
+  {
+    "id": 88,
+    "titolo": "Borsa Louis Vuitton Neverfull MM Damier Ebene",
+    "immagine_principale": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?q=80&w=3435&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Louis Vuitton Neverfull MM tela Damier Ebene con interno Rosa Ballerine, manici pelle naturale, dimensioni 32x29x17cm, pochette rimovibile inclusa. Data code VI1019, acquistata boutique LV Roma 2019. Condizioni ottime 8.5/10, minimi segni d'uso sui manici, tela perfetta, interno pulito. Borsa iconica e versatile, perfetta per lavoro e tempo libero. Include dustbag originale, ricevuta d'acquisto. Autenticità certificata. No scambi, solo vendita contanti.",
+    "categoria": "Abbigliamento",
+    "prezzo": 850,
+    "data_pubblicazione": "2025-06-04",
+    "citta": "Ischia",
+    "venditore": {
+      "nome": "Boutique Luxury Ischia",
+      "email": "boutique@luxuryischia.it",
+      "telefono": "+39 346 3344556"
+    }
+  },
+  {
+    "id": 89,
+    "titolo": "Casa vacanze 60mq vista mare Costiera Amalfitana",
+    "immagine_principale": "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Casa vacanze indipendente 60 mq fronte mare, Furore Costiera Amalfitana, soggiorno con angolo cottura, camera matrimoniale, bagno con doccia, terrazza panoramica 20 mq vista Capri. Completamente arredato stile mediterraneo, aria condizionata, WiFi, lavatrice, posto auto privato. Accesso diretto sentiero spiaggia, 5 min a piedi centro Furore. Investimento rendita turistica €25.000/anno o casa vacanze famiglia. Documenti regolari, APE C. Libera subito, chiavi in mano.",
+    "categoria": "Immobili",
+    "prezzo": 285000,
+    "data_pubblicazione": "2025-06-03",
+    "citta": "Furore",
+    "venditore": {
+      "nome": "Agenzia Costiera Properties",
+      "email": "vendite@costieraproperties.it",
+      "telefono": "+39 089 1234567"
+    }
+  },
+  {
+    "id": 90,
+    "titolo": "Ufficio 80mq centro direzionale Salerno",
+    "immagine_principale": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "galleria_immagini": [
+      "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1497366811353-6870744d04b2?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "descrizione": "Ufficio 80 mq 3° piano con ascensore, Palazzo Arechi centro direzionale Salerno, 3 stanze separate, reception, 2 bagni, terrazzo 15 mq, posto auto coperto garage. Climatizzazione autonoma, fibra ottica predisposta, mobilio moderno incluso (scrivanie, sedie, armadi, reception). Palazzo di prestigio con portineria, ideale studi professionali, società consulenza, agenzie. Vicinanza Tribunale, Questura, enti pubblici. Contratto registrato 4+4 anni. Canone mensile tutto incluso.",
+    "categoria": "Immobili",
+    "prezzo": 1200,
+    "data_pubblicazione": "2025-06-02",
+    "citta": "Salerno",
+    "venditore": {
+      "nome": "Professional Office Salerno",
+      "email": "office@professionalsalerno.it",
+      "telefono": "+39 089 5566778"
+    }
+  }
+] }

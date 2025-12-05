@@ -1,0 +1,32 @@
+<section class="categories-page">
+  <h1>Categorie</h1>
+
+  @if (error) {
+    <p class="error">{{ error }}</p>
+  }
+
+  @if (loading) {
+    <p class="loading">Caricamento...</p>
+  }
+
+  <div class="grid">
+    @for (cat of categories(); track cat.id) {
+      <button type="button" class="tile" (click)="open(cat)" aria-label="Apri categoria {{ cat.name }}">
+        <div class="icon">
+          @switch (cat.name) {
+            @case ('Elettronica') { <span class="emoji categoria-icona" aria-hidden="true">📱</span> }
+            @case ('Auto e Moto') { <span class="emoji categoria-icona" aria-hidden="true">🚗</span> }
+            @case ('Abbigliamento') { <span class="emoji categoria-icona" aria-hidden="true">👗</span> }
+            @case ('Musica') { <span class="emoji categoria-icona" aria-hidden="true">🎸</span> }
+            @case ('Immobili') { <span class="emoji categoria-icona" aria-hidden="true">🏠</span> }
+            @case ('Casa e Giardino') { <span class="emoji categoria-icona" aria-hidden="true">🛋️</span> }
+            @case ('Sport') { <span class="emoji categoria-icona" aria-hidden="true">⚽</span> }
+            @case ('Consigliati per te') { <span class="emoji categoria-icona" aria-hidden="true">⭐</span> }
+            @default { <span class="emoji categoria-icona" aria-hidden="true">🏷️</span> }
+          }
+        </div>
+        <div class="categoria-nome">{{ cat.name }}</div>
+      </button>
+    }
+  </div>
+</section>

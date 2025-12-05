@@ -1,0 +1,24 @@
+<section class="form-section">
+  <form [formGroup]="form" (ngSubmit)="submit()" class="form">
+    <label>
+      Email
+      <input formControlName="email" type="email" />
+      <!-- mostra l'errore inline dentro l'input -->
+      <span class="err" *ngIf="email?.invalid && (email?.dirty || email?.touched) && email?.errors?.['completeEmail']">Formato email non valido</span>
+      <span class="err" *ngIf="email?.invalid && (email?.dirty || email?.touched) && email?.errors?.['required']">L'email è obbligatoria</span>
+    </label>
+
+    <label>
+      Password
+      <input formControlName="password" type="password" />
+    </label>
+    <!-- messaggio specifico se l'utente preme login senza password -->
+    <span class="err" *ngIf="passwordError">{{ passwordError }}</span>
+
+    <!-- il pulsante è disabilitato solo se l'email è invalida; così l'utente può premere Login anche se la password è vuota e ricevere il messaggio -->
+    <button type="submit" [disabled]="email?.invalid">Login</button>
+
+    <!-- messaggio sotto il form per credenziali errate -->
+    <p class="err" *ngIf="error">{{ error }}</p>
+  </form>
+</section>

@@ -1,0 +1,9 @@
+<nav class="navbar">
+  <a routerLink="/home" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">Home</a>
+  <a routerLink="/categories" routerLinkActive="active">Categorie</a>
+  <a routerLink="/insert" routerLinkActive="active">Inserisci</a>
+  <a routerLink="/contacts" routerLinkActive="active">Contatti</a>
+  <a *ngIf="!loggedIn" routerLink="/login" routerLinkActive="active">Login</a>
+  <a *ngIf="!loggedIn" routerLink="/register" routerLinkActive="active">Register</a>
+  <a *ngIf="loggedIn" (click)="logout()" class="logout">Logout</a>
+</nav>

@@ -1,0 +1,59 @@
+<section class="form-section">
+  <h2>Inserisci annuncio</h2>
+  <form [formGroup]="form" (ngSubmit)="submit()" class="form">
+    <label for="titolo">Titolo</label>
+    <input id="titolo" type="text" formControlName="titolo" />
+    <p class="form-hint error" *ngIf="submitted && form.controls['titolo']?.errors">
+      <span *ngIf="form.controls['titolo']?.errors?.['required']">Minimo 5 caratteri</span>
+      <span *ngIf="!form.controls['titolo']?.errors?.['required'] && form.controls['titolo']?.errors?.['minlength']">Minimo 5 caratteri</span>
+      <span *ngIf="!form.controls['titolo']?.errors?.['required'] && form.controls['titolo']?.errors?.['pattern']">Non deve contenere numeri o simboli speciali</span>
+    </p>
+
+    <label for="descrizione">Descrizione</label>
+    <textarea id="descrizione" formControlName="descrizione"></textarea>
+    <p class="form-hint error" *ngIf="submitted && form.controls['descrizione']?.errors">
+      <span *ngIf="form.controls['descrizione']?.errors?.['required']">Minimo 10 caratteri</span>
+      <span *ngIf="!form.controls['descrizione']?.errors?.['required'] && form.controls['descrizione']?.errors?.['minlength']">Minimo 10 caratteri</span>
+    </p>
+
+    <label for="prezzo">Prezzo</label>
+    <input id="prezzo" type="number" formControlName="prezzo" />
+    <p class="form-hint error" *ngIf="submitted && form.controls['prezzo']?.errors">
+      <span *ngIf="form.controls['prezzo']?.errors?.['required']">Inserisci un prezzo</span>
+      <span *ngIf="form.controls['prezzo']?.errors?.['min']">Il prezzo deve essere >= 0</span>
+    </p>
+
+    <label for="citta">Città</label>
+    <input id="citta" type="text" formControlName="citta" />
+    <p class="form-hint error" *ngIf="submitted && form.controls['citta']?.errors">
+      <span *ngIf="form.controls['citta']?.errors?.['required']">Minimo 2 caratteri</span>
+      <span *ngIf="!form.controls['citta']?.errors?.['required'] && form.controls['citta']?.errors?.['minlength']">Minimo 2 caratteri</span>
+      <span *ngIf="!form.controls['citta']?.errors?.['required'] && form.controls['citta']?.errors?.['pattern']">Non deve contenere numeri o simboli speciali</span>
+    </p>
+
+    <label for="categoria">Categoria</label>
+    <select id="categoria" formControlName="categoria">
+      <option value="">Seleziona</option>
+      <option value="Elettronica">Elettronica</option>
+      <option value="Auto e Moto">Auto e Moto</option>
+      <option value="Abbigliamento">Abbigliamento</option>
+      <option value="Musica">Musica</option>
+      <option value="Immobili">Immobili</option>
+    </select>
+    <p class="form-hint error" *ngIf="submitted && form.controls['categoria']?.errors">
+      <span *ngIf="form.controls['categoria']?.errors?.['required']">Seleziona una categoria</span>
+    </p>
+
+    <label for="immagine">Immagine (opzionale)</label>
+    <input id="immagine" type="file" accept="image/*,.png,.jpg" (change)="onFileChange($event)" />
+    <p class="form-hint error" *ngIf="submitted && form.controls['immagine_principale']?.errors">
+      <span *ngIf="form.controls['immagine_principale']?.errors?.['required']">Seleziona un'immagine</span>
+      <span *ngIf="form.controls['immagine_principale']?.errors?.['invalidType']">Formato immagine non valido (png/jpg)</span>
+    </p>
+
+    <button type="submit" class="btn">Pubblica</button>
+
+    <p *ngIf="!success && loading" class="form-hint muted">caricamento...</p>
+    <p *ngIf="success" class="form-hint success">Annuncio salvato con successo!</p>
+  </form>
+</section>

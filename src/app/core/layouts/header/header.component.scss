@@ -1,0 +1,20 @@
+/* Header layout: logo a sinistra, navbar centrata in mezzo, spazio per azioni a destra (se servono) */
+header .main-content {
+  display: grid;
+  grid-template-columns: auto 1fr auto; /* logo | area centrale | azioni future */
+  align-items: center;
+  gap: 24px;
+}
+
+/* Posizionamento esplicito degli elementi nella griglia */
+header .logo {
+  grid-column: 1;
+  justify-self: start;
+}
+
+/* Il componente navbar sta nella colonna centrale ed è centrato orizzontalmente */
+header app-navbar {
+  grid-column: 2;
+  justify-self: center;
+  align-self: center; /* mantiene il nav centrato verticalmente anche se il logo è più in alto */
+}

@@ -1,0 +1,41 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+}
+
+.card img {
+  width: 100%;
+  aspect-ratio: 16 / 9; /* keeps images proportional */
+  object-fit: cover;    /* crop without distortion */
+  display: block;
+}
+
+.card .content {
+  padding: 12px;
+}
+
+.card .price {
+  font-weight: 700;
+  color: #0f766e;
+  margin: 4px 0 2px;
+}
+
+.card .meta {
+  color: #6b7280;
+  font-size: 12px;
+}
+
+.card button {
+  align-self: flex-start;
+  margin-top: 8px;
+  padding: 6px 10px;
+  border: 1px solid #e5e7eb;
+  background: #fafafa;
+  border-radius: 6px;
+  cursor: pointer;
+}

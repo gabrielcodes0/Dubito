@@ -1,0 +1,115 @@
+Realizza un progetto completo in Angular, basato su quanto visto durante il corso mediante esercitazioni, progetto di esempio e slide.
+Il tema del progetto è libero: scegli qualcosa che ti interessa, ti diverte o che rappresenti una tua idea personale.
+
+Requisiti Generali:
+Utilizzo della versione moderna di Angular (standalone components, routing, services, reactive forms, ecc.).
+Struttura del progetto ispirata alle buone pratiche viste in classe.
+Gestione di dati dinamici tramite una delle seguenti opzioni:
+Backend opzionale (a scelta dello studente).
+Utilizzo di json-server per simulare un’API locale (https://www.npmjs.com/package/json-server).
+Uso di semplici mockup / array statici direttamente nel progetto.
+Presentazione:
+
+
+la struttura deve essere più semplice possibile ma che segui le task dette prima, 
+le uniche differenze saranno che non NON devo  CREARE UN BACKEND, e non useremo json server
+spiegami qual'è il modo  più facile e veloce per farlo
+probabilmente array statici
+spiegami come fare
+ti chiederò di darmi la struttura del progetto e farò 
+copia incolla dei codici nei file, mi serve che mi consigli
+
+
+adesso ti daro un esempio di progetto ma il progetto finale non sarà un task manager
+te lo do solo per fare in modo che usi le bestpracties che si adattano al progetto semplificato che sto facendo io
+
+
+------
+Esercizio Angular – Mini app "Task Tracker"
+Realizza una piccola Single Page Application in Angular che gestisce una lista di task e una pagina
+home.
+
+Obiettivo
+Ripassare i concetti principali di Angular:
+creazione progetto
+componenti standalone
+routing
+direttive e control flow
+comunicazione Input / Output
+
+1. Progetto
+Crea un nuovo progetto con Angular CLI:
+ng new project-name
+Usa SCSS
+SSR disattivato
+
+2. Componenti standalone
+Crea questi componenti (tutti standalone):
+HomePage – Una semplice pagina di benvenuto.
+TasksPage – Pagina che mostra la lista dei task.
+TaskCard – Una card riutilizzabile che mostra un singolo task.
+Navbar – Barra di navigazione in alto.
+
+3. Routing
+Configura app.routes.ts con almeno:
+path '' → HomePage
+path 'tasks' → TasksPage
+In app.config.ts utilizza:
+provideRouter(routes)
+
+Nel template principale ( app.html o simile):
+<app-navbar> in alto
+<router-outlet> come contenuto principale
+Nella Navbar:
+Usa routerLink per i link
+Usa routerLinkActive per evidenziare la pagina attiva
+Usa routerLinkActiveOptions="{ exact: true }" per la home
+
+4. Lista dei task + direttive / control flow
+In TasksPage :
+Definisci l’interfaccia Task (in inglese), da inserire nel file: src/app/models/
+task.interface.ts
+Esempio: (in inglese):
+
+export interface Task {
+title: string;
+description: string;
+priority: 'low' | 'medium' | 'high';
+completed: boolean;
+}
+Crea un array di task di esempio.
+Mostra la lista usando il control flow moderno @for (o *ngFor ).
+Usa @if (o *ngIf ) per mostrare un badge “Completed” quando completed === true .
+Usa ngClass (o @switch ) per cambiare il colore della card in base alla priorità:
+high → rosso
+medium → arancione
+low → verde
+
+5. Input / Output tra TasksPage e TaskCard
+In TaskCard:
+Ricevi il task tramite @Input() :
+@Input() task!: Task;
+Aggiungi un @Output() per notificare il toggle del completamento:
+@Output() toggled = new EventEmitter<Task>();
+Al click della card o di un pulsante, esegui:
+toggled.emit(task);
+In TasksPage:
+Usa <app-task-card> passando:
+<app-task-card
+[task]="task"
+(toggled)="onTaskToggled($event)"
+/>
+Implementa la funzione:
+onTaskToggled(task: Task) {
+task.completed = !task.completed;
+this.selectedTask = task;
+}
+Sotto la lista mostra:
+Selected task: {{ selectedTask?.title }}
+
+Controlla che:
+La navbar funzioni e mostri la pagina attiva
+Il routing tra Home e Tasks sia funzionante
+La lista dei task venga visualizzata correttamente
+Il toggle completato/non completato funzioni
+Il task selezionato venga mostrato sotto la lista

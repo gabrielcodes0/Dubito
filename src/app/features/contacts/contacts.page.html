@@ -1,0 +1,32 @@
+<section class="form-section">
+  <h2>Contattaci</h2>
+  <!-- form template-driven: #contattiForm="ngForm" -->
+  <form id="contatti-form" class="form" #contattiForm="ngForm" (ngSubmit)="onSubmit(contattiForm)" novalidate>
+
+    <label for="contatti-nome">Nome</label>
+    <!-- pattern: solo lettere e spazi (incluse lettere accentate) -->
+    <input type="text" id="contatti-nome" name="nome" ngModel required minlength="2" pattern="^[A-Za-zÀ-ÖØ-öø-ÿ ]+$" />
+    <p class="form-hint error" *ngIf="submitted && (contattiForm.controls['nome']?.errors)">
+      <span *ngIf="contattiForm.controls['nome']?.errors?.['required']">Minimo 2 caratteri</span>
+      <span *ngIf="!contattiForm.controls['nome']?.errors?.['required'] && contattiForm.controls['nome']?.errors?.['minlength']">Minimo 2 caratteri</span>
+      <span *ngIf="!contattiForm.controls['nome']?.errors?.['required'] && contattiForm.controls['nome']?.errors?.['pattern']">Non deve contenere numeri o simboli speciali</span>
+    </p>
+
+    <label for="contatti-email">Email</label>
+    <input type="email" id="contatti-email" name="email" ngModel required minlength="5" />
+    <p class="form-hint error" *ngIf="submitted && (contattiForm.controls['email']?.errors)">
+      <span *ngIf="contattiForm.controls['email']?.errors?.['required']">Minimo 5 caratteri</span>
+      <span *ngIf="!contattiForm.controls['email']?.errors?.['required'] && contattiForm.controls['email']?.errors?.['minlength']">Minimo 5 caratteri</span>
+      <span *ngIf="!contattiForm.controls['email']?.errors?.['required'] && contattiForm.controls['email']?.errors?.['email']">Email non valida</span>
+    </p>
+
+    <label for="contatti-messaggio">Messaggio</label>
+    <textarea id="contatti-messaggio" name="messaggio" ngModel required minlength="10"></textarea>
+    <p class="form-hint error" *ngIf="submitted && (contattiForm.controls['messaggio']?.errors)">
+      <span *ngIf="contattiForm.controls['messaggio']?.errors?.['required']">Minimo 10 caratteri</span>
+      <span *ngIf="!contattiForm.controls['messaggio']?.errors?.['required'] && contattiForm.controls['messaggio']?.errors?.['minlength']">Minimo 10 caratteri</span>
+    </p>
+
+    <button type="submit" class="btn">Invia</button>
+  </form>
+</section>

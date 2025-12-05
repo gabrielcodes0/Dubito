@@ -1,0 +1,22 @@
+/* Navbar component: layout pulito e prevedibile */
+:host {
+  display: block; /* non forziamo la larghezza: si adatta al contenuto */
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: center; /* centra i link, coerente con styles globali */
+  gap: 30px; /* distanza tra i link come da specifica */
+  flex-wrap: wrap; /* evita overflow su schermi piccoli */
+  /* nessuna width forzata: lasciamo la barra larga quanto i link */
+}
+
+.navbar a {
+  color: #fff; /* coerente con i globali */
+  text-decoration: none;
+}
+.navbar a:hover,
+.navbar a.active {
+  background: #232b3b; /* coerente con styles.scss */
+}

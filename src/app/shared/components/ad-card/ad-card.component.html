@@ -1,0 +1,9 @@
+<div class="annuncio-card" (click)="openDetail()" style="cursor: pointer;">
+  <img [src]="ad.immagine_principale" [alt]="ad.titolo" />
+  <div class="annuncio-info">
+    <div class="annuncio-titolo">{{ ad.titolo }}</div>
+    <div class="annuncio-prezzo">{{ ad.prezzo | currency: 'EUR' }}</div>
+    <div class="annuncio-citta">{{ ad.categoria }} · {{ ad.citta }}</div>
+    <button type="button" class="fav-btn" aria-label="Aggiungi ai preferiti" (click)="onFavoriteClick($event)">❤</button>
+  </div>
+</div>

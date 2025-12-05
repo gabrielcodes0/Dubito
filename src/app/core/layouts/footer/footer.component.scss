@@ -1,0 +1,14 @@
+/* styles for footer */
+.site-footer {
+  text-align: center;
+}
+.site-footer .footer-links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px; /* spazio uniforme tra link e separatori */
+  margin-bottom: 10px;
+}
+.site-footer .footer-links .sep {
+  color: #ffd700; /* giallo come nello stile JS */
+}

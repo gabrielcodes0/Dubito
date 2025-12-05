@@ -1,0 +1,9 @@
+<form [formGroup]="form" (ngSubmit)="submit()" class="form">
+  <label>Nome <input formControlName="name" /></label>
+  <p class="form-hint error">Minimo 2 caratteri</p>
+  <label>Email <input formControlName="email" type="email" /></label>
+  <p class="form-hint error">Minimo 5 caratteri</p>
+  <label>Password <input formControlName="password" type="password" /></label>
+  <p class="form-hint error">Minimo 4 caratteri</p>
+  <button type="submit" [disabled]="form.invalid">Registrati</button>
+</form>
